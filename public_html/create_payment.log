@@ -1,0 +1,3781 @@
+-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "jhkjghkguiyiuyhiu",
+    "cancel_url": "jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEeP5FirnvncSTiYX0TE0pnQw8IuDUUn2fO_w9VGczEFhNZ2YqJq7bzUf5kXI4-ow2kZmsWEPM-vGsHlYgzoAWKewUhfA 
+Result: 
+{"error":"invalid_token","error_description":"The token passed in was not found in the system"}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "jhkjghkguiyiuyhiu",
+    "cancel_url": "jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEhc2-ws0grJJlRtoKsufEzTUu_AX-cEkop2lI4QTSB2j7-7MH4WpXdIzP3n7Yy5N_326nIaY1Z5k6HfeAFg8iSeSyWEg 
+Result: 
+{"error":"invalid_token","error_description":"The token passed in was not found in the system"}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "jhkjghkguiyiuyhiu",
+    "cancel_url": "jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEhc2-ws0grJJlRtoKsufEzTUu_AX-cEkop2lI4QTSB2j7-7MH4WpXdIzP3n7Yy5N_326nIaY1Z5k6HfeAFg8iSeSyWEg 
+Result: 
+{"error":"invalid_token","error_description":"The token passed in was not found in the system"}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "jhkjghkguiyiuyhiu",
+    "cancel_url": "jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEhc2-ws0grJJlRtoKsufEzTUu_AX-cEkop2lI4QTSB2j7-7MH4WpXdIzP3n7Yy5N_326nIaY1Z5k6HfeAFg8iSeSyWEg 
+Result: 
+{"error":"invalid_token","error_description":"The token passed in was not found in the system"}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "jhkjghkguiyiuyhiu",
+    "cancel_url": "jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEhc2-ws0grJJlRtoKsufEzTUu_AX-cEkop2lI4QTSB2j7-7MH4WpXdIzP3n7Yy5N_326nIaY1Z5k6HfeAFg8iSeSyWEg 
+Result: 
+{"name":"VALIDATION_ERROR","details":[{"field":"redirect_urls.return_url","issue":"Invalid URL"},{"field":"redirect_urls.cancel_url","issue":"Invalid URL"}],"message":"Invalid request - see details","information_link":"https:\/\/developer.paypal.com\/docs\/api\/payments\/#errors","debug_id":"4e95bcfdc126c"}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "jhkjghkguiyiuyhiu",
+    "cancel_url": "jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEhc2-ws0grJJlRtoKsufEzTUu_AX-cEkop2lI4QTSB2j7-7MH4WpXdIzP3n7Yy5N_326nIaY1Z5k6HfeAFg8iSeSyWEg 
+Result: 
+{"name":"VALIDATION_ERROR","details":[{"field":"redirect_urls.return_url","issue":"Invalid URL"},{"field":"redirect_urls.cancel_url","issue":"Invalid URL"}],"message":"Invalid request - see details","information_link":"https:\/\/developer.paypal.com\/docs\/api\/payments\/#errors","debug_id":"848db7ac23afe"}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "jhkjghkguiyiuyhiu",
+    "cancel_url": "jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEhc2-ws0grJJlRtoKsufEzTUu_AX-cEkop2lI4QTSB2j7-7MH4WpXdIzP3n7Yy5N_326nIaY1Z5k6HfeAFg8iSeSyWEg 
+Result: 
+{"name":"VALIDATION_ERROR","details":[{"field":"redirect_urls.return_url","issue":"Invalid URL"},{"field":"redirect_urls.cancel_url","issue":"Invalid URL"}],"message":"Invalid request - see details","information_link":"https:\/\/developer.paypal.com\/docs\/api\/payments\/#errors","debug_id":"ab6d8c606d02e"}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "jhkjghkguiyiuyhiu",
+    "cancel_url": "jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEhc2-ws0grJJlRtoKsufEzTUu_AX-cEkop2lI4QTSB2j7-7MH4WpXdIzP3n7Yy5N_326nIaY1Z5k6HfeAFg8iSeSyWEg 
+Result: 
+{"name":"VALIDATION_ERROR","details":[{"field":"redirect_urls.return_url","issue":"Invalid URL"},{"field":"redirect_urls.cancel_url","issue":"Invalid URL"}],"message":"Invalid request - see details","information_link":"https:\/\/developer.paypal.com\/docs\/api\/payments\/#errors","debug_id":"42ad762c4025b"}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "jhkjghkguiyiuyhiu",
+    "cancel_url": "jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEhc2-ws0grJJlRtoKsufEzTUu_AX-cEkop2lI4QTSB2j7-7MH4WpXdIzP3n7Yy5N_326nIaY1Z5k6HfeAFg8iSeSyWEg 
+Result: 
+{"name":"VALIDATION_ERROR","details":[{"field":"redirect_urls.return_url","issue":"Invalid URL"},{"field":"redirect_urls.cancel_url","issue":"Invalid URL"}],"message":"Invalid request - see details","information_link":"https:\/\/developer.paypal.com\/docs\/api\/payments\/#errors","debug_id":"e00978c511f20"}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "jhkjghkguiyiuyhiu",
+    "cancel_url": "jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEhc2-ws0grJJlRtoKsufEzTUu_AX-cEkop2lI4QTSB2j7-7MH4WpXdIzP3n7Yy5N_326nIaY1Z5k6HfeAFg8iSeSyWEg 
+Result: 
+{"name":"VALIDATION_ERROR","details":[{"field":"redirect_urls.cancel_url","issue":"Invalid URL"},{"field":"redirect_urls.return_url","issue":"Invalid URL"}],"message":"Invalid request - see details","information_link":"https:\/\/developer.paypal.com\/docs\/api\/payments\/#errors","debug_id":"f133f6a2d72e8"}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEhc2-ws0grJJlRtoKsufEzTUu_AX-cEkop2lI4QTSB2j7-7MH4WpXdIzP3n7Yy5N_326nIaY1Z5k6HfeAFg8iSeSyWEg 
+Result: 
+{"id":"PAYID-L45OLUY4JM30822A4372113D","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-17T20:17:23Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L45OLUY4JM30822A4372113D","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-9DM503307T915322H","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L45OLUY4JM30822A4372113D\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEhc2-ws0grJJlRtoKsufEzTUu_AX-cEkop2lI4QTSB2j7-7MH4WpXdIzP3n7Yy5N_326nIaY1Z5k6HfeAFg8iSeSyWEg 
+Result: 
+{"id":"PAYID-L45OM3Q9JA90047YV610483K","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-17T20:19:58Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L45OM3Q9JA90047YV610483K","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-0NN72172FM897722T","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L45OM3Q9JA90047YV610483K\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEhc2-ws0grJJlRtoKsufEzTUu_AX-cEkop2lI4QTSB2j7-7MH4WpXdIzP3n7Yy5N_326nIaY1Z5k6HfeAFg8iSeSyWEg 
+Result: 
+{"id":"PAYID-L45OM7I5LB756527S1015514","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-17T20:20:12Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L45OM7I5LB756527S1015514","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-0EH19871AA7560926","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L45OM7I5LB756527S1015514\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEhc2-ws0grJJlRtoKsufEzTUu_AX-cEkop2lI4QTSB2j7-7MH4WpXdIzP3n7Yy5N_326nIaY1Z5k6HfeAFg8iSeSyWEg 
+Result: 
+{"id":"PAYID-L45ONZI0ED15645DH678400F","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-17T20:21:57Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L45ONZI0ED15645DH678400F","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-9DW77331KJ9612644","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L45ONZI0ED15645DH678400F\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEINngotA1XcLeb-r0fX1VBxGs1UEXZn-iyh9BfiM0Db67ehawcrpuh1zlBM9hy6ZeNDSeRAPVUqDn8_5R2bndisk5FGQ 
+Result: 
+{"id":"PAYID-L46PV3Q1F602201TA1954240","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T10:11:58Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46PV3Q1F602201TA1954240","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-80H66774642252802","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46PV3Q1F602201TA1954240\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEINngotA1XcLeb-r0fX1VBxGs1UEXZn-iyh9BfiM0Db67ehawcrpuh1zlBM9hy6ZeNDSeRAPVUqDn8_5R2bndisk5FGQ 
+Result: 
+{"id":"PAYID-L46PWFA51A357132Y579750B","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T10:12:36Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46PWFA51A357132Y579750B","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-27D55766YH2342645","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46PWFA51A357132Y579750B\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEINngotA1XcLeb-r0fX1VBxGs1UEXZn-iyh9BfiM0Db67ehawcrpuh1zlBM9hy6ZeNDSeRAPVUqDn8_5R2bndisk5FGQ 
+Result: 
+{"id":"PAYID-L46PXHY1NX88109H6083554U","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T10:14:54Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46PXHY1NX88109H6083554U","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-63110842R4014652P","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46PXHY1NX88109H6083554U\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEINngotA1XcLeb-r0fX1VBxGs1UEXZn-iyh9BfiM0Db67ehawcrpuh1zlBM9hy6ZeNDSeRAPVUqDn8_5R2bndisk5FGQ 
+Result: 
+{"id":"PAYID-L46PXYA1RL98794C6453900Y","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T10:16:00Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46PXYA1RL98794C6453900Y","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-93A02100L0146305D","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46PXYA1RL98794C6453900Y\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEINngotA1XcLeb-r0fX1VBxGs1UEXZn-iyh9BfiM0Db67ehawcrpuh1zlBM9hy6ZeNDSeRAPVUqDn8_5R2bndisk5FGQ 
+Result: 
+{"id":"PAYID-L46PX5A79F24584RJ5803337","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T10:16:19Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46PX5A79F24584RJ5803337","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-0GC20728488283834","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46PX5A79F24584RJ5803337\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEINngotA1XcLeb-r0fX1VBxGs1UEXZn-iyh9BfiM0Db67ehawcrpuh1zlBM9hy6ZeNDSeRAPVUqDn8_5R2bndisk5FGQ 
+Result: 
+{"id":"PAYID-L46PYBA7EP50798340463820","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T10:16:35Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46PYBA7EP50798340463820","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-9AL30825DA301283E","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46PYBA7EP50798340463820\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEINngotA1XcLeb-r0fX1VBxGs1UEXZn-iyh9BfiM0Db67ehawcrpuh1zlBM9hy6ZeNDSeRAPVUqDn8_5R2bndisk5FGQ 
+Result: 
+{"id":"PAYID-L46PYGQ1NG964614P6225834","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T10:16:57Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46PYGQ1NG964614P6225834","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-0JY03623RE024190F","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46PYGQ1NG964614P6225834\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEINngotA1XcLeb-r0fX1VBxGs1UEXZn-iyh9BfiM0Db67ehawcrpuh1zlBM9hy6ZeNDSeRAPVUqDn8_5R2bndisk5FGQ 
+Result: 
+{"id":"PAYID-L46PZFY9KF995593D392605U","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T10:19:03Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46PZFY9KF995593D392605U","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-5KG31843DA193351P","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46PZFY9KF995593D392605U\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEINngotA1XcLeb-r0fX1VBxGs1UEXZn-iyh9BfiM0Db67ehawcrpuh1zlBM9hy6ZeNDSeRAPVUqDn8_5R2bndisk5FGQ 
+Result: 
+{"id":"PAYID-L46PZZY5H686936P1437273F","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T10:20:23Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46PZZY5H686936P1437273F","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-4M309545TV911483U","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46PZZY5H686936P1437273F\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEINngotA1XcLeb-r0fX1VBxGs1UEXZn-iyh9BfiM0Db67ehawcrpuh1zlBM9hy6ZeNDSeRAPVUqDn8_5R2bndisk5FGQ 
+Result: 
+{"id":"PAYID-L46P27I43C8633395980043U","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T10:22:53Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P27I43C8633395980043U","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-21M889830X334282M","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P27I43C8633395980043U\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEINngotA1XcLeb-r0fX1VBxGs1UEXZn-iyh9BfiM0Db67ehawcrpuh1zlBM9hy6ZeNDSeRAPVUqDn8_5R2bndisk5FGQ 
+Result: 
+{"id":"PAYID-L46P3DA0NS13772NS703921R","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T10:23:08Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P3DA0NS13772NS703921R","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-0P730643EC0317744","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P3DA0NS13772NS703921R\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEINngotA1XcLeb-r0fX1VBxGs1UEXZn-iyh9BfiM0Db67ehawcrpuh1zlBM9hy6ZeNDSeRAPVUqDn8_5R2bndisk5FGQ 
+Result: 
+{"id":"PAYID-L46P3FQ1PX14070FL613082B","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T10:23:17Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P3FQ1PX14070FL613082B","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-1Y563408C0256313G","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P3FQ1PX14070FL613082B\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEINngotA1XcLeb-r0fX1VBxGs1UEXZn-iyh9BfiM0Db67ehawcrpuh1zlBM9hy6ZeNDSeRAPVUqDn8_5R2bndisk5FGQ 
+Result: 
+{"id":"PAYID-L46P3OQ18Y6620353558383G","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T10:23:53Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P3OQ18Y6620353558383G","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-4B791612S00294541","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P3OQ18Y6620353558383G\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEINngotA1XcLeb-r0fX1VBxGs1UEXZn-iyh9BfiM0Db67ehawcrpuh1zlBM9hy6ZeNDSeRAPVUqDn8_5R2bndisk5FGQ 
+Result: 
+{"id":"PAYID-L46P4BI7K712615X0958150Y","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T10:25:08Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P4BI7K712615X0958150Y","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-6PN265043W7314940","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P4BI7K712615X0958150Y\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEINngotA1XcLeb-r0fX1VBxGs1UEXZn-iyh9BfiM0Db67ehawcrpuh1zlBM9hy6ZeNDSeRAPVUqDn8_5R2bndisk5FGQ 
+Result: 
+{"id":"PAYID-L46P4WY8JS42365P18795004","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T10:26:35Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P4WY8JS42365P18795004","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-39373466T9025494T","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P4WY8JS42365P18795004\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEINngotA1XcLeb-r0fX1VBxGs1UEXZn-iyh9BfiM0Db67ehawcrpuh1zlBM9hy6ZeNDSeRAPVUqDn8_5R2bndisk5FGQ 
+Result: 
+{"id":"PAYID-L46P46I2EE6441213891410B","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T10:27:04Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P46I2EE6441213891410B","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-2TE725936V735360W","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P46I2EE6441213891410B\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEINngotA1XcLeb-r0fX1VBxGs1UEXZn-iyh9BfiM0Db67ehawcrpuh1zlBM9hy6ZeNDSeRAPVUqDn8_5R2bndisk5FGQ 
+Result: 
+{"id":"PAYID-L46P5DQ30T07326YL2377604","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T10:27:25Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P5DQ30T07326YL2377604","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-35R348762M2445403","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P5DQ30T07326YL2377604\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEINngotA1XcLeb-r0fX1VBxGs1UEXZn-iyh9BfiM0Db67ehawcrpuh1zlBM9hy6ZeNDSeRAPVUqDn8_5R2bndisk5FGQ 
+Result: 
+{"id":"PAYID-L46P5PA19820730898546802","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T10:28:12Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P5PA19820730898546802","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-7GT28324TM699594A","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P5PA19820730898546802\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEINngotA1XcLeb-r0fX1VBxGs1UEXZn-iyh9BfiM0Db67ehawcrpuh1zlBM9hy6ZeNDSeRAPVUqDn8_5R2bndisk5FGQ 
+Result: 
+{"id":"PAYID-L46P5SA52214490E5989152U","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T10:28:24Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P5SA52214490E5989152U","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-18D05781UJ697051U","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P5SA52214490E5989152U\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEINngotA1XcLeb-r0fX1VBxGs1UEXZn-iyh9BfiM0Db67ehawcrpuh1zlBM9hy6ZeNDSeRAPVUqDn8_5R2bndisk5FGQ 
+Result: 
+{"id":"PAYID-L46P5WA1VH661814S943543K","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T10:28:39Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P5WA1VH661814S943543K","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-6HC38015MD947161L","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P5WA1VH661814S943543K\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEINngotA1XcLeb-r0fX1VBxGs1UEXZn-iyh9BfiM0Db67ehawcrpuh1zlBM9hy6ZeNDSeRAPVUqDn8_5R2bndisk5FGQ 
+Result: 
+{"id":"PAYID-L46P5ZI07Y58940WK920110U","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T10:28:53Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P5ZI07Y58940WK920110U","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-3FN17141AL932205L","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P5ZI07Y58940WK920110U\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAEINngotA1XcLeb-r0fX1VBxGs1UEXZn-iyh9BfiM0Db67ehawcrpuh1zlBM9hy6ZeNDSeRAPVUqDn8_5R2bndisk5FGQ 
+Result: 
+{"id":"PAYID-L46P7JQ372966437R6715343","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T10:32:06Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P7JQ372966437R6715343","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-43063996M8365924L","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46P7JQ372966437R6715343\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "300.00",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #jhkjghkguiyiuyhiu",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher jhkjghkguiyiuyhiu",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "300",
+            "sku": "jhkjghkguiyiuyhiu",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local//booking/getdone/jhkjghkguiyiuyhiu",
+    "cancel_url": "http://mahifishingcharters.local//booking/get-cancel/jhkjghkguiyiuyhiu"
+  }
+}
+'Access Token: A21AAHQXQVljCWz8FUtg64G_pWiwK09XzzGJqr3jU9P6QcVCwBj7H5WZCFlX2TxmHAB7PmcUUeB2lcd0giv6RZKt_74wANUjA 
+Result: 
+{"id":"PAYID-L46SLCY7VY8303760272903D","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"300.00","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #jhkjghkguiyiuyhiu","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher jhkjghkguiyiuyhiu","sku":"jhkjghkguiyiuyhiu","description":"Allways Cabo Transfer Services","price":"300.00","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T13:13:46Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46SLCY7VY8303760272903D","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-2VS73666NF607850Y","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46SLCY7VY8303760272903D\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.allwayscabotransportation.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.allwayscabotransportation.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAH6md3Ai32pRUQvoRFateLtUMPq475Yc5_YJ9ronCWMr0CybNeLvTElLp7cY0mhoVXVXqBtKnAwRjbbor_IK-qyQeQa1Q 
+Result: 
+{"id":"PAYID-L46SXHI6KK95177C6598844N","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T13:39:41Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L46SXHI6KK95177C6598844N","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-29K26326AF423705R","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L46SXHI6KK95177C6598844N\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.allwayscabotransportation.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.allwayscabotransportation.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAH6md3Ai32pRUQvoRFateLtUMPq475Yc5_YJ9ronCWMr0CybNeLvTElLp7cY0mhoVXVXqBtKnAwRjbbor_IK-qyQeQa1Q 
+Result: 
+{"id":"PAYID-L46SX6I1XS18881Y8684253J","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T13:41:13Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L46SX6I1XS18881Y8684253J","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-4CD779130N4626930","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L46SX6I1XS18881Y8684253J\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.allwayscabotransportation.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.allwayscabotransportation.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAH6md3Ai32pRUQvoRFateLtUMPq475Yc5_YJ9ronCWMr0CybNeLvTElLp7cY0mhoVXVXqBtKnAwRjbbor_IK-qyQeQa1Q 
+Result: 
+{"id":"PAYID-L46SYJY8K947415CC0526700","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T13:41:59Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L46SYJY8K947415CC0526700","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-4TH85945J01516624","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L46SYJY8K947415CC0526700\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAH6md3Ai32pRUQvoRFateLtUMPq475Yc5_YJ9ronCWMr0CybNeLvTElLp7cY0mhoVXVXqBtKnAwRjbbor_IK-qyQeQa1Q 
+Result: 
+{"id":"PAYID-L46S5ZQ4VR24066BA209852S","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T13:53:42Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L46S5ZQ4VR24066BA209852S","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-5HS79504H4540074W","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L46S5ZQ4VR24066BA209852S\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAHQXQVljCWz8FUtg64G_pWiwK09XzzGJqr3jU9P6QcVCwBj7H5WZCFlX2TxmHAB7PmcUUeB2lcd0giv6RZKt_74wANUjA 
+Result: 
+{"id":"PAYID-L46TAKQ19C05387PE0520226","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T13:59:05Z","links":[{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46TAKQ19C05387PE0520226","rel":"self","method":"GET"},{"href":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-5PV19625V1199404E","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.sandbox.paypal.com\/v1\/payments\/payment\/PAYID-L46TAKQ19C05387PE0520226\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAE-SaHmsWQe151dR84oDO9GstsTbp1RML6Sbv-Z78qa90P1WT4E0BAlrfEbYf-mfAwA0KwUQWyqIj9gZprkAbwnPQ__oQ 
+Result: 
+{"id":"PAYID-L46TBLQ7XD87689DR6199327","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T14:01:18Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L46TBLQ7XD87689DR6199327","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-04A66310TY766160X","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L46TBLQ7XD87689DR6199327\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAE-SaHmsWQe151dR84oDO9GstsTbp1RML6Sbv-Z78qa90P1WT4E0BAlrfEbYf-mfAwA0KwUQWyqIj9gZprkAbwnPQ__oQ 
+Result: 
+{"id":"PAYID-L46TBUQ7UM248805P741883P","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-19T14:01:53Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L46TBUQ7UM248805P741883P","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-5M2527833N5421019","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L46TBUQ7UM248805P741883P\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAG37bbFqOi2ONeLQ453SXi5-ueUOjAeZ8Bc18l2JDl3ATxy_68aGnzPEEB5MkXvRmd_fTrHOy4snuafAVcTQR7iFxqzPg 
+Result: 
+{"id":"PAYID-L47GPBQ2J990779V28330109","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-20T12:07:34Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47GPBQ2J990779V28330109","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-6XY3501276489211N","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47GPBQ2J990779V28330109\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAHyY1mnrKWTlGe_RWmYBJwc8r5mi1yXM2_JAv4d78n9uyO8SuUkxyeJcJ9nwfrV88vaJOjUUNkEFLTaqNo7d90DX3Jq8w 
+Result: 
+{"id":"PAYID-L47XD7Y1XV95396TH2067900","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T07:04:31Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XD7Y1XV95396TH2067900","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-78K38224860215104","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XD7Y1XV95396TH2067900\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAHyY1mnrKWTlGe_RWmYBJwc8r5mi1yXM2_JAv4d78n9uyO8SuUkxyeJcJ9nwfrV88vaJOjUUNkEFLTaqNo7d90DX3Jq8w 
+Result: 
+{"id":"PAYID-L47XE4Q1NB91234FW9562444","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T07:06:26Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XE4Q1NB91234FW9562444","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-8LC16915MF735841T","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XE4Q1NB91234FW9562444\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAHyY1mnrKWTlGe_RWmYBJwc8r5mi1yXM2_JAv4d78n9uyO8SuUkxyeJcJ9nwfrV88vaJOjUUNkEFLTaqNo7d90DX3Jq8w 
+Result: 
+{"id":"PAYID-L47XIDQ25473519EH225204F","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T07:13:18Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XIDQ25473519EH225204F","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-9WR59935922636738","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XIDQ25473519EH225204F\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAHyY1mnrKWTlGe_RWmYBJwc8r5mi1yXM2_JAv4d78n9uyO8SuUkxyeJcJ9nwfrV88vaJOjUUNkEFLTaqNo7d90DX3Jq8w 
+Result: 
+{"id":"PAYID-L47XQPQ2UW71767V6939551T","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T07:31:09Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XQPQ2UW71767V6939551T","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-3SP73136HY657283E","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XQPQ2UW71767V6939551T\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAHyY1mnrKWTlGe_RWmYBJwc8r5mi1yXM2_JAv4d78n9uyO8SuUkxyeJcJ9nwfrV88vaJOjUUNkEFLTaqNo7d90DX3Jq8w 
+Result: 
+{"id":"PAYID-L47XQRY2NV20059FA863934V","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T07:31:19Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XQRY2NV20059FA863934V","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-05G07653D1019402V","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XQRY2NV20059FA863934V\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAHyY1mnrKWTlGe_RWmYBJwc8r5mi1yXM2_JAv4d78n9uyO8SuUkxyeJcJ9nwfrV88vaJOjUUNkEFLTaqNo7d90DX3Jq8w 
+Result: 
+{"id":"PAYID-L47XREI016584006X7163022","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T07:32:33Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XREI016584006X7163022","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-33G40309UP451424K","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XREI016584006X7163022\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAHyY1mnrKWTlGe_RWmYBJwc8r5mi1yXM2_JAv4d78n9uyO8SuUkxyeJcJ9nwfrV88vaJOjUUNkEFLTaqNo7d90DX3Jq8w 
+Result: 
+{"id":"PAYID-L47XTKQ3HM337394D5493153","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T07:37:14Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XTKQ3HM337394D5493153","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-44F13330RP038105P","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XTKQ3HM337394D5493153\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAHyY1mnrKWTlGe_RWmYBJwc8r5mi1yXM2_JAv4d78n9uyO8SuUkxyeJcJ9nwfrV88vaJOjUUNkEFLTaqNo7d90DX3Jq8w 
+Result: 
+{"id":"PAYID-L47XVQY4X924893Y1029010D","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T07:41:55Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XVQY4X924893Y1029010D","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-0YC57215435924002","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XVQY4X924893Y1029010D\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAHyY1mnrKWTlGe_RWmYBJwc8r5mi1yXM2_JAv4d78n9uyO8SuUkxyeJcJ9nwfrV88vaJOjUUNkEFLTaqNo7d90DX3Jq8w 
+Result: 
+{"id":"PAYID-L47XW4I6E272330749009138","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T07:44:49Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XW4I6E272330749009138","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-3B676482A67107604","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XW4I6E272330749009138\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAHyY1mnrKWTlGe_RWmYBJwc8r5mi1yXM2_JAv4d78n9uyO8SuUkxyeJcJ9nwfrV88vaJOjUUNkEFLTaqNo7d90DX3Jq8w 
+Result: 
+{"id":"PAYID-L47XW6I86S50382AU4521445","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T07:44:57Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XW6I86S50382AU4521445","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-8AJ79606SN8763740","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XW6I86S50382AU4521445\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAHyY1mnrKWTlGe_RWmYBJwc8r5mi1yXM2_JAv4d78n9uyO8SuUkxyeJcJ9nwfrV88vaJOjUUNkEFLTaqNo7d90DX3Jq8w 
+Result: 
+{"id":"PAYID-L47XXFA3JY564043D234612E","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T07:45:24Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XXFA3JY564043D234612E","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-4DA41244RB291854B","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XXFA3JY564043D234612E\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAHyY1mnrKWTlGe_RWmYBJwc8r5mi1yXM2_JAv4d78n9uyO8SuUkxyeJcJ9nwfrV88vaJOjUUNkEFLTaqNo7d90DX3Jq8w 
+Result: 
+{"id":"PAYID-L47XXVA3X780720252716447","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T07:46:28Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XXVA3X780720252716447","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-0A044474KE8873939","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XXVA3X780720252716447\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAHyY1mnrKWTlGe_RWmYBJwc8r5mi1yXM2_JAv4d78n9uyO8SuUkxyeJcJ9nwfrV88vaJOjUUNkEFLTaqNo7d90DX3Jq8w 
+Result: 
+{"id":"PAYID-L47XX4A2E35310642001290D","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T07:46:56Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XX4A2E35310642001290D","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-66R11463V4755864S","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XX4A2E35310642001290D\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAHyY1mnrKWTlGe_RWmYBJwc8r5mi1yXM2_JAv4d78n9uyO8SuUkxyeJcJ9nwfrV88vaJOjUUNkEFLTaqNo7d90DX3Jq8w 
+Result: 
+{"id":"PAYID-L47XYGY0LM03160YU922715E","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T07:47:39Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XYGY0LM03160YU922715E","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-9R293339MP2147034","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XYGY0LM03160YU922715E\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAHyY1mnrKWTlGe_RWmYBJwc8r5mi1yXM2_JAv4d78n9uyO8SuUkxyeJcJ9nwfrV88vaJOjUUNkEFLTaqNo7d90DX3Jq8w 
+Result: 
+{"id":"PAYID-L47XZBA28R11748DP0356842","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T07:49:24Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XZBA28R11748DP0356842","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-8A5498701N477051G","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47XZBA28R11748DP0356842\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAHyY1mnrKWTlGe_RWmYBJwc8r5mi1yXM2_JAv4d78n9uyO8SuUkxyeJcJ9nwfrV88vaJOjUUNkEFLTaqNo7d90DX3Jq8w 
+Result: 
+{"id":"PAYID-L47X25Q9UH47420030715815","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T07:53:26Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47X25Q9UH47420030715815","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-168113110L366673N","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47X25Q9UH47420030715815\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAHyY1mnrKWTlGe_RWmYBJwc8r5mi1yXM2_JAv4d78n9uyO8SuUkxyeJcJ9nwfrV88vaJOjUUNkEFLTaqNo7d90DX3Jq8w 
+Result: 
+{"id":"PAYID-L47X3FI4E922570FB423342D","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T07:53:57Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47X3FI4E922570FB423342D","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-24B567095C993291F","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47X3FI4E922570FB423342D\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAHyY1mnrKWTlGe_RWmYBJwc8r5mi1yXM2_JAv4d78n9uyO8SuUkxyeJcJ9nwfrV88vaJOjUUNkEFLTaqNo7d90DX3Jq8w 
+Result: 
+{"id":"PAYID-L47X3MI86K66687A17623828","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T07:54:24Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47X3MI86K66687A17623828","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-88R00640JP472293C","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47X3MI86K66687A17623828\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAHyY1mnrKWTlGe_RWmYBJwc8r5mi1yXM2_JAv4d78n9uyO8SuUkxyeJcJ9nwfrV88vaJOjUUNkEFLTaqNo7d90DX3Jq8w 
+Result: 
+{"id":"PAYID-L47X4JI88671929VR880634N","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T07:56:20Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47X4JI88671929VR880634N","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-4Y308771CY782315C","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47X4JI88671929VR880634N\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAHyY1mnrKWTlGe_RWmYBJwc8r5mi1yXM2_JAv4d78n9uyO8SuUkxyeJcJ9nwfrV88vaJOjUUNkEFLTaqNo7d90DX3Jq8w 
+Result: 
+{"id":"PAYID-L47X4PI28P74522MW893514W","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T07:56:45Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47X4PI28P74522MW893514W","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-3L436452MU1696839","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47X4PI28P74522MW893514W\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAHyY1mnrKWTlGe_RWmYBJwc8r5mi1yXM2_JAv4d78n9uyO8SuUkxyeJcJ9nwfrV88vaJOjUUNkEFLTaqNo7d90DX3Jq8w 
+Result: 
+{"id":"PAYID-L47X5DY5N698551M45013201","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T07:58:06Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47X5DY5N698551M45013201","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-05H690073A556262K","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47X5DY5N698551M45013201\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAHyY1mnrKWTlGe_RWmYBJwc8r5mi1yXM2_JAv4d78n9uyO8SuUkxyeJcJ9nwfrV88vaJOjUUNkEFLTaqNo7d90DX3Jq8w 
+Result: 
+{"id":"PAYID-L47X5TQ8EG434758F920291C","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T07:59:10Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47X5TQ8EG434758F920291C","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-92T955524L121324U","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47X5TQ8EG434758F920291C\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAEict5cvLF330xzvHb4zLvM2TQz8L8AIbLGsDCEuljimex5f9znaHnQu0KEcQ3Qf3TbP1bPrMkkKCJ02B4FPGKgwdI-tg 
+Result: 
+{"id":"PAYID-L47X6NY8XK018236J748714J","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T08:00:55Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47X6NY8XK018236J748714J","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-8UW48297ET331612X","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47X6NY8XK018236J748714J\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAEict5cvLF330xzvHb4zLvM2TQz8L8AIbLGsDCEuljimex5f9znaHnQu0KEcQ3Qf3TbP1bPrMkkKCJ02B4FPGKgwdI-tg 
+Result: 
+{"id":"PAYID-L47YBKA1K619561P77689112","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T08:07:04Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YBKA1K619561P77689112","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-7FA01974Y8806043A","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YBKA1K619561P77689112\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAEict5cvLF330xzvHb4zLvM2TQz8L8AIbLGsDCEuljimex5f9znaHnQu0KEcQ3Qf3TbP1bPrMkkKCJ02B4FPGKgwdI-tg 
+Result: 
+{"id":"PAYID-L47YCNI56A67185TU8780839","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T08:09:25Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YCNI56A67185TU8780839","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-491780358S871760A","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YCNI56A67185TU8780839\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAEict5cvLF330xzvHb4zLvM2TQz8L8AIbLGsDCEuljimex5f9znaHnQu0KEcQ3Qf3TbP1bPrMkkKCJ02B4FPGKgwdI-tg 
+Result: 
+{"id":"PAYID-L47YCQQ87148188U3651733F","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T08:09:38Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YCQQ87148188U3651733F","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-77E412587J283781F","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YCQQ87148188U3651733F\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAEict5cvLF330xzvHb4zLvM2TQz8L8AIbLGsDCEuljimex5f9znaHnQu0KEcQ3Qf3TbP1bPrMkkKCJ02B4FPGKgwdI-tg 
+Result: 
+{"id":"PAYID-L47YDCA8V704483KF665120R","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T08:10:48Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YDCA8V704483KF665120R","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-0CV05789AM6106846","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YDCA8V704483KF665120R\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAEict5cvLF330xzvHb4zLvM2TQz8L8AIbLGsDCEuljimex5f9znaHnQu0KEcQ3Qf3TbP1bPrMkkKCJ02B4FPGKgwdI-tg 
+Result: 
+{"id":"PAYID-L47YH4I02U24276MB6574501","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T08:21:05Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YH4I02U24276MB6574501","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-2MJ592051J0705928","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YH4I02U24276MB6574501\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAEict5cvLF330xzvHb4zLvM2TQz8L8AIbLGsDCEuljimex5f9znaHnQu0KEcQ3Qf3TbP1bPrMkkKCJ02B4FPGKgwdI-tg 
+Result: 
+{"id":"PAYID-L47YIBQ06R66445DY749050H","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T08:21:25Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YIBQ06R66445DY749050H","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-4B343921T2381635M","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YIBQ06R66445DY749050H\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAEict5cvLF330xzvHb4zLvM2TQz8L8AIbLGsDCEuljimex5f9znaHnQu0KEcQ3Qf3TbP1bPrMkkKCJ02B4FPGKgwdI-tg 
+Result: 
+{"id":"PAYID-L47YIEY4MS42371FN199404L","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T08:21:39Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YIEY4MS42371FN199404L","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-60T34506BF033720V","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YIEY4MS42371FN199404L\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAEict5cvLF330xzvHb4zLvM2TQz8L8AIbLGsDCEuljimex5f9znaHnQu0KEcQ3Qf3TbP1bPrMkkKCJ02B4FPGKgwdI-tg 
+Result: 
+{"id":"PAYID-L47YITQ16301001L38305042","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T08:22:37Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YITQ16301001L38305042","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-4LL25314BB9628900","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YITQ16301001L38305042\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAEict5cvLF330xzvHb4zLvM2TQz8L8AIbLGsDCEuljimex5f9znaHnQu0KEcQ3Qf3TbP1bPrMkkKCJ02B4FPGKgwdI-tg 
+Result: 
+{"id":"PAYID-L47YIXQ0J976117UP321594W","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T08:22:54Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YIXQ0J976117UP321594W","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-4SA78338EC943933P","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YIXQ0J976117UP321594W\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAEict5cvLF330xzvHb4zLvM2TQz8L8AIbLGsDCEuljimex5f9znaHnQu0KEcQ3Qf3TbP1bPrMkkKCJ02B4FPGKgwdI-tg 
+Result: 
+{"id":"PAYID-L47YI2Y95266995R2093393N","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T08:23:07Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YI2Y95266995R2093393N","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-6LD88766WC585683K","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YI2Y95266995R2093393N\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAEict5cvLF330xzvHb4zLvM2TQz8L8AIbLGsDCEuljimex5f9znaHnQu0KEcQ3Qf3TbP1bPrMkkKCJ02B4FPGKgwdI-tg 
+Result: 
+{"id":"PAYID-L47YL6I23A987439K4948616","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T08:29:45Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YL6I23A987439K4948616","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-3V8201328X006505K","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YL6I23A987439K4948616\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAEict5cvLF330xzvHb4zLvM2TQz8L8AIbLGsDCEuljimex5f9znaHnQu0KEcQ3Qf3TbP1bPrMkkKCJ02B4FPGKgwdI-tg 
+Result: 
+{"id":"PAYID-L47YMGI11611765VU369391C","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T08:30:17Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YMGI11611765VU369391C","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-6VY21047915496122","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YMGI11611765VU369391C\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAEict5cvLF330xzvHb4zLvM2TQz8L8AIbLGsDCEuljimex5f9znaHnQu0KEcQ3Qf3TbP1bPrMkkKCJ02B4FPGKgwdI-tg 
+Result: 
+{"id":"PAYID-L47YMMI5CX289436A4178127","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T08:30:41Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YMMI5CX289436A4178127","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-49911448MY5315122","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YMMI5CX289436A4178127\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAEict5cvLF330xzvHb4zLvM2TQz8L8AIbLGsDCEuljimex5f9znaHnQu0KEcQ3Qf3TbP1bPrMkkKCJ02B4FPGKgwdI-tg 
+Result: 
+{"id":"PAYID-L47YMOY8PV43242K2307210E","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T08:30:51Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YMOY8PV43242K2307210E","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-7Y2093619B770530F","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YMOY8PV43242K2307210E\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAEict5cvLF330xzvHb4zLvM2TQz8L8AIbLGsDCEuljimex5f9znaHnQu0KEcQ3Qf3TbP1bPrMkkKCJ02B4FPGKgwdI-tg 
+Result: 
+{"id":"PAYID-L47YO3A37T45374YC269874J","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T08:35:56Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YO3A37T45374YC269874J","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-3LT36419WC4822605","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YO3A37T45374YC269874J\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAEict5cvLF330xzvHb4zLvM2TQz8L8AIbLGsDCEuljimex5f9znaHnQu0KEcQ3Qf3TbP1bPrMkkKCJ02B4FPGKgwdI-tg 
+Result: 
+{"id":"PAYID-L47YPBQ55580512RA987324T","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T08:36:22Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YPBQ55580512RA987324T","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-6M217865UD618340V","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YPBQ55580512RA987324T\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.fishingcaoboats.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.fishingcaoboats.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAEict5cvLF330xzvHb4zLvM2TQz8L8AIbLGsDCEuljimex5f9znaHnQu0KEcQ3Qf3TbP1bPrMkkKCJ02B4FPGKgwdI-tg 
+Result: 
+{"id":"PAYID-L47YSGI077411032X757645A","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T08:43:05Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YSGI077411032X757645A","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-8TR2274053571405P","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YSGI077411032X757645A\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.allwayscabotransportation.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.allwayscabotransportation.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAEict5cvLF330xzvHb4zLvM2TQz8L8AIbLGsDCEuljimex5f9znaHnQu0KEcQ3Qf3TbP1bPrMkkKCJ02B4FPGKgwdI-tg 
+Result: 
+{"id":"PAYID-L47YSOY6Y449049DL489273V","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T08:43:39Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YSOY6Y449049DL489273V","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-8JS59327ED118814K","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YSOY6Y449049DL489273V\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.allwayscabotransportation.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.allwayscabotransportation.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAGYGzgvgTaFCEtQIVQSRLNfWZDLYKY0osyDEDG8P2SA7LOv3YfJgQ0i0qBJAbuhD-G1akr4HNRtXC8ENxTjgCvV-YADiw 
+Result: 
+{"id":"PAYID-L47YUAQ4ES178173M8740318","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T08:46:58Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YUAQ4ES178173M8740318","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-76566504LS849521K","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YUAQ4ES178173M8740318\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "https://www.allwayscabotransportation.com/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "https://www.allwayscabotransportation.com/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAGYGzgvgTaFCEtQIVQSRLNfWZDLYKY0osyDEDG8P2SA7LOv3YfJgQ0i0qBJAbuhD-G1akr4HNRtXC8ENxTjgCvV-YADiw 
+Result: 
+{"id":"PAYID-L47YUQQ30693626A6064735L","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T08:48:02Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YUQQ30693626A6064735L","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-9RN40573YT890063B","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YUQQ30693626A6064735L\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "http://mahifishingcharters.local/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAEict5cvLF330xzvHb4zLvM2TQz8L8AIbLGsDCEuljimex5f9znaHnQu0KEcQ3Qf3TbP1bPrMkkKCJ02B4FPGKgwdI-tg 
+Result: 
+{"id":"PAYID-L47YZ5Y4GY69894EK5666539","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T08:59:35Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YZ5Y4GY69894EK5666539","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-2RX68637LL257944H","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47YZ5Y4GY69894EK5666539\/execute","rel":"execute","method":"POST"}]}-----------
+'{
+  "intent": "sale",
+  "application_context": {
+    "shipping_preference": "NO_SHIPPING"
+  },
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "currency": "USD",
+        "total": "76.50",
+        "details": {}
+      },
+      "description": "Allways Cabo Transportation Services",
+      "custom": "Transfer #ALLW-2008-19053444",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY"
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "Transfer Voucher ALLW-2008-19053444",
+            "description": "Allways Cabo Transfer Services",
+            "quantity": "1",
+            "price": "76.50",
+            "sku": "ALLW-2008-19053444",
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "redirect_urls": {
+    "return_url": "http://mahifishingcharters.local/booking/getdone/ALLW-2008-19053444",
+    "cancel_url": "http://mahifishingcharters.local/booking/get-cancel/ALLW-2008-19053444"
+  }
+}
+'Access Token: A21AAHOJC6csptA3tcWcdGNVMjpud7SsOebpKdS7BVsa-7j9lb9WqZFcnsKcDmDBXCAvmW-5QZP9D8Z8wbkrKUKG-whp_rMNQ 
+Result: 
+{"id":"PAYID-L47Y6NI7X744705YY5223634","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"shipping_preference":"NO_SHIPPING"},"transactions":[{"amount":{"total":"76.50","currency":"USD","details":[]},"description":"Allways Cabo Transportation Services","custom":"Transfer #ALLW-2008-19053444","payment_options":{"allowed_payment_method":"IMMEDIATE_PAY","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"Transfer Voucher ALLW-2008-19053444","sku":"ALLW-2008-19053444","description":"Allways Cabo Transfer Services","price":"76.50","currency":"USD","quantity":1}]},"related_resources":[]}],"create_time":"2020-08-21T09:09:09Z","links":[{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47Y6NI7X744705YY5223634","rel":"self","method":"GET"},{"href":"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-9JK92728SM244751R","rel":"approval_url","method":"REDIRECT"},{"href":"https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-L47Y6NI7X744705YY5223634\/execute","rel":"execute","method":"POST"}]}
