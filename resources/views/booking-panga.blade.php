@@ -13,8 +13,6 @@
 
 @section('content')
 
-
-
     <div class="container mt-3 mb-5" id="booking">
         <div class="row mx-0">
             <div class="col-lg-8">

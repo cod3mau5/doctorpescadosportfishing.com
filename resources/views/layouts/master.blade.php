@@ -29,7 +29,6 @@
 
         <link rel="stylesheet" type="text/css" href="{{asset('css/slick.css')}}"/>
         <link rel="stylesheet" type="text/css" href="{{asset('css/slick-theme.css')}}"/>
-
         <link rel="stylesheet" href="{{url('/css/styles.css?=').time()}}">
 
         @yield('styles')
@@ -53,7 +52,13 @@
               <i class="fa fa-envelope pr-2"></i>info@doctorpescadosportfishing.com
             </div>
             <div class="tel text-center">
-              <i class="fa fa-phone pr-2"></i> FROM USA: +52 (624) 117 79 92
+                <i class="fa fa-phone pr-2"></i> FROM MÉXICO: +52 (624) 117 79 92
+            </div>
+            <div class="tel text-center">
+                <i class="fa fa-phone pr-2"></i> FROM TEXAS: +1 (214) 613-8296
+            </div>
+            <div class="tel text-center">
+                <i class="fa fa-phone pr-2"></i> FROM USA: +1 (213) 406-7627
             </div>
           </div>
 
@@ -111,9 +116,9 @@
                           {{-- <li class="nav-item">
                             <a class="nav-link" href="{{url('/book-now')}}">BOOK NOW</a>
                           </li> --}}
-                          {{-- <li class="nav-item">
+                          <li class="nav-item">
                             <a class="nav-link" href="{{route('fishing-report-home')}}">FISHING REPORT</a>
-                          </li> --}}
+                          </li>
                           <li class="nav-item">
                             <a class="nav-link" href="{{url('/pangas')}}">PANGAS LIST</a>
                           </li>
@@ -174,7 +179,13 @@
                               <i class="fa fa-envelope pr-2"></i>info@doctorpescadosportfishing.com
                             </div>
                             <div class="tel text-center">
-                              <i class="fa fa-phone pr-2"></i> FROM USA: +52 (624) 117 79 92
+                              <i class="fa fa-phone pr-2"></i> FROM MÉXICO: +52 (624) 117 79 92
+                            </div>
+                            <div class="tel text-center">
+                                <i class="fa fa-phone pr-2"></i> FROM TEXAS: +1 (214) 613-8296
+                            </div>
+                            <div class="tel text-center">
+                                <i class="fa fa-phone pr-2"></i> FROM USA: +1 (213) 406-7627
                             </div>
                         </div>
 
@@ -212,6 +223,8 @@
                                 <a href="{{url('contact')}}">CONTACT US</a>
                             </div>
                             <div class="col-md-12 text-center my-2">
+                                From MÉXICO: <a href="tel:+526241177992">+52 (624) 117 79 92</a> <br>
+                                From TEXAS: <a href="tel:+526241177992">+52 (624) 117 79 92</a> <br>
                                 From USA: <a href="tel:+526241177992">+52 (624) 117 79 92</a> <br>
                                 Copyright {{date('Y')}} {{config('app.name')}}  <br>All rights reserved.
                             </div>
