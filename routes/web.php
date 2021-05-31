@@ -71,7 +71,8 @@ Route::post('/getCharterPrice','ChartersController@getPrice');
 
 
 //PAYPAL PAYMENT
-Route::get('/reservation/completed/{orderID}','GetOrder@getOrder');
+Route::get('/reservation/completed/{orderID}','PangasController@getOrder');
+Route::get('/paypal-reservation/completed/{orderID}','GetOrder@getOrder');
 Route::get('/tour-reservation/completed/{orderID}','GetOrder@getOrderTour');
 // Route::get('/paypal/pay', 'PaymentController@payWithPayPal');
 // Route::get('/paypal/status', 'PaymentController@payPalStatus');

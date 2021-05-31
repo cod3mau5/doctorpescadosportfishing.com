@@ -72,27 +72,23 @@ class PangasController extends Controller
     }
 
     public function reservePanga(Request $response){
-        dd($response);
+        // dd($response);
                 #TRANSACTION DETAILS:
-                $description=$response->result->purchase_units[0]->description;
-
-                $reservationData= explode(',', $description);
-                $data['name']= $response->result->payer->name->given_name .' '. $response->result->payer->name->surname;
-                $data['email']= $response->result->payer->email_address;
-                $data['orderID']= $response->result->id;
-                $data['charter']= $reservationData[0];
-                $data['duration']= $reservationData[1];
-                $data['anglers']= $reservationData[2];
-                $data['fishingDate']= $reservationData[3];
-                $data['fishingTime']= $reservationData[4];
-                $data['cost']=$response->result->purchase_units[0]->payments->captures[0]->amount->value;
-                $data['subtotal']= $reservationData[5];
-                $data['client_origin']= $reservationData[6];
-                $data['request']= $reservationData[7];
-
-                if($response->result->status === "COMPLETED"){
-                    #INSERT DETAILS:
-                    $reservation = Reservation::create($data);
+                // $description=$response->result->purchase_units[0]->description;
+                $data['name']= $response->name;
+                $data['email']= $response->email;
+                $data['orderID']= $response->orderID;
+                $data['charter']= $response->charter;
+                $data['duration']= $response->duration;
+                $data['anglers']= $response->anglers;
+                $data['fishingDate']= $response->fishingDate;
+                $data['fishingTime']= $response->fishingTime;
+                $data['cost']=$response->cost;
+                $data['subtotal']= $response->subtotal;
+                $data['client_origin']= $response->client_origin;
+                $data['request']=$response->specialRequest ? $response->specialRequest : 'no request';
+                $data['orderID']='RESERVATION-PENDING-'.rand(5, 15);
+                if($reservation = Reservation::create($data)){
 
                     // dd($reservation->email);
 
@@ -105,7 +101,7 @@ class PangasController extends Controller
                             'julietaleyva2808@gmail.com',
                             'code.bit.mau@gmail.com']
                         )->queue(new OrderReservation($reservation));
-                        return view('summary',compact('reservation'));
+                        return $reservation;
 
                     }elseif(config('paypal.settings.mode') == 'sandbox'){
                         // return new OrderReservation($reservation);
@@ -114,19 +110,24 @@ class PangasController extends Controller
                             'mauri.bmxxx@gmail.com',
                             'code.bit.mau@gmail.com']
                         )->queue(new OrderReservation($reservation));
-                        return view('summary',compact('reservation'));
+                        return $reservation;
 
                     }else{
                         Mail::to(
                             [$reservation->email,
                             'code.bit.mau@gmail.com']
                         )->queue(new OrderReservation($reservation));
-                        return view('summary',compact('reservation'));
+                        return $reservation;
                     }
 
                 }else{
                   return back()->with('status', 'there is a problem with the payment click here to contact us.');
                 }
+    }
+    public function getOrder($orderID){
+
+        $reservation=Reservation::where('orderID',$orderID)->first();
+        return view('summary',compact('reservation'));
     }
 
 }

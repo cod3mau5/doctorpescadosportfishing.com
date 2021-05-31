@@ -221,43 +221,30 @@
                     },//checkFields()
                     sendReservation(){
                         vm=this;
-                        alert("{{$panga->name}} {{$panga->feets}}ft"+","+duration+","+vm.anglers+","+vm.fishingDate+","+vm.startingTime+","+vm.subtotal+","+vm.clientOrigin+","+vm.specialRequest);
+                        // alert("{{$panga->name}} {{$panga->feets}}ft"+","+duration+","+vm.anglers+","+vm.fishingDate+","+vm.startingTime+","+vm.subtotal+","+vm.clientOrigin+","+vm.specialRequest);
 
                         $.ajax({
                                 type: "POST",
                                 url: '/reserve-panga',
                                 data: {
                                     id: vm.id,
-                                    name:"{{$panga->name}}",
+                                    name: vm.firstName + ' ' + vm.lastName,
+                                    email: vm.email,
+                                    charter:"{{$panga->name}}",
                                     feets: "{{$panga->feets}}ft",
                                     duration: vm.fishingDuration.slice(0, 1),
                                     anglers:vm.anglers,
-                                    date:vm.fishingDate,
-                                    time:vm.startingTime,
+                                    fishingDate:vm.fishingDate,
+                                    fishingTime:vm.startingTime,
                                     subtotal:vm.subtotal,
                                     clienOrigin:vm.clientOrigin,
+                                    cost:vm.total,
                                     specialRequest:vm.specialRequest,
                                     _token: '{{ csrf_token() }}'
                                 },
 
-                                success: function(response)
-                                {
-                                    if(response === "Error"){
-                                        vm.total='0';
-                                        vm.subtotal='0';
-                                        vm.showPayPalBtns=false;
-                                    }else{
-                                        vm.total='0';
-                                        vm.subtotal='0';
-                                        vm.subtotal=response.price.toString();
-                                        var calcTotal= 16 * response.price / 100;
-                                        calcTotal= calcTotal + response.price;
-                                        calcTotal=calcTotal.toFixed(2);
-                                        //vm.total= calcTotal.toString(); // uncomment this to use taxes
-                                        vm.total= response.price;//comment this for no taxes
-                                        vm.showPayPalBtns=true;
-                                    }
-                                }
+                            }).then((response) =>{
+                                window.location= '/reservation/completed/'+response.orderID;
                             });
 
                     }
