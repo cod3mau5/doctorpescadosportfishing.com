@@ -165,9 +165,16 @@
                                 <p style="margin-bottom:10px;color:#47959E;font-family:Tahoma,Geneva,sans-serif;font-size:12px;font-weight:400;line-height:19px;margin:0;margin-bottom:0;padding:0;text-align:left">
                                     Total: <strong>{{$reservation->cost}}</strong>
                                 </p>
-                                <p style="margin-bottom:10px;color:#47959E;font-family:Tahoma,Geneva,sans-serif;font-size:12px;font-weight:400;line-height:19px;margin:0;margin-bottom:0;padding:0;text-align:left">
-                                    Payment Status: <strong style="color:springgreen">Paid</strong>
-                                </p>
+                                @if($reservation->paymentStatus)
+                                    <p style="margin-bottom:10px;color:#47959E;font-family:Tahoma,Geneva,sans-serif;font-size:12px;font-weight:400;line-height:19px;margin:0;margin-bottom:0;padding:0;text-align:left">
+                                        Payment Status: <strong style="color:rgb(255, 98, 0)">Confirmation pending</strong>
+                                    </p>
+                                    @else
+                                    <p style="margin-bottom:10px;color:#47959E;font-family:Tahoma,Geneva,sans-serif;font-size:12px;font-weight:400;line-height:19px;margin:0;margin-bottom:0;padding:0;text-align:left">
+                                        Payment Status: <strong style="color:springgreen">Paid</strong>
+                                    </p>
+                                @endif
+
                                 <p style="margin-bottom:10px;color:#47959E;font-family:Tahoma,Geneva,sans-serif;font-size:12px;font-weight:400;line-height:19px;margin:0;margin-bottom:0;padding:0;text-align:left">
                                     Order ID: <strong>{{ $reservation->orderID }}</strong>
                                 </p>
@@ -274,12 +281,12 @@
                     <th style="margin:0;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:900;line-height:19px;margin:0;text-align:left" class="px-3">
                         <h2 style="margin:0;margin-bottom:10px;border-bottom:2px solid #C6C6C6;color:#fb5607;font-family:Helvetica,Arial,sans-serif;font-size:13px;font-weight:700;line-height:1.3;margin:0;margin-bottom:5px;padding:0;padding-bottom:5px;text-align:left;width:90%;word-wrap:normal">BE AWARE:</h2>
                         <ul class="pl-4">
-                            <li style="margin:0;margin-bottom:10px;color:#bd632f;font-family:Tahoma,Geneva,sans-serif;font-size:12px;font-weight:700;line-height:19px;margin:0;margin-bottom:0;padding:0;text-align:left">
+                            {{-- <li style="margin:0;margin-bottom:10px;color:#bd632f;font-family:Tahoma,Geneva,sans-serif;font-size:12px;font-weight:700;line-height:19px;margin:0;margin-bottom:0;padding:0;text-align:left">
                                 Cancellations 72 hours in advance full refund except paypal commisions (5.4% + 0.3usd).
                             </li>
                             <li style="margin:0;margin-bottom:10px;color:#bd632f;font-family:Tahoma,Geneva,sans-serif;font-size:12px;font-weight:700;line-height:19px;margin:0;margin-bottom:0;padding:0;text-align:left">
                                 Cancellations within 24 and 48 hours will incur a penalty of 50% minus paypal commisions (5.4% + 0.3usd).
-                            </li>
+                            </li> --}}
                             <li style="margin:0;margin-bottom:10px;color:#bd632f;font-family:Tahoma,Geneva,sans-serif;font-size:12px;font-weight:700;line-height:19px;margin:0;margin-bottom:0;padding:0;text-align:left">
                                 In case the port is closed due to storms or unsafe weather conditions, <br> or you can change the date by checking with the captain the availability of your reservation, Better to call afternoon or send us a whatsapp message.
 
