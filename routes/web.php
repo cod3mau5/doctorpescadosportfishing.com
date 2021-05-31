@@ -47,6 +47,7 @@ Route::get('/pangas', 'PangasController@home');
 #BOOK SPECIFIED PANGA
 Route::get('/book-now/panga/{id}', 'PangasController@bookPanga')->name('panga-id');
 Route::get('/book-now/panga/{id}/{price}', 'PangasController@bookPangaWithPrice');
+Route::post('/reserve-panga','PangasController@reservePanga');
 #BOOK NOW ONLY FOR PANGAS IN GENERAL
 Route::get('/book-now', 'PangasController@bookRandomPanga');
 #GET PANGAS PRICES

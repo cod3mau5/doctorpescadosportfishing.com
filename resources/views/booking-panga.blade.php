@@ -13,7 +13,7 @@
 
 @section('content')
 
-    
+
 
     <div class="container mt-3 mb-5" id="booking">
         <div class="row mx-0">
@@ -37,16 +37,16 @@
                                 <div class="col-md-6 form-group">
                                     <label class="required" for="fullname">First Name</label><br>
                                     <input type="text" name="firstName" class="form-control" v-model="firstName" @change="checkFields">
-                                   
+
                                 </div>
                                 <div class="col-md-6 form-group">
                                     <label class="required" for="fullname">Last Name</label><br>
                                     <input type="text" name="fullname" class="form-control" v-model="lastName" @change="checkFields">
-                                   
+
                                 </div>
-                             
+
                             </div>
-                            
+
                             <div class="row">
 
                                 <div class="col-md-6 form-group">
@@ -58,13 +58,13 @@
                                 <label class="required" for="duration">Fishing Duration</label><br>
                                 <select name="duration" id="duration" class="form-control" v-model="fishingDuration" @change="checkFields">
                                     @if($price ?? '')
-                                        @if(!empty($price) || $price === "false") 
+                                        @if(!empty($price) || $price === "false")
                                             @else
                                                 <option selected="selected">Choose Duration</option>
                                         @endif
                                     @endif
 
-                                    <option value="{{ $panga->rate->duration_half_day  }}_{{ $panga->rate->half_day  }}" 
+                                    <option value="{{ $panga->rate->duration_half_day  }}_{{ $panga->rate->half_day  }}"
                                         @if($price ?? '')
                                             @if(!empty($price) || $price === "false") selected @endif
                                         @endif>
@@ -74,7 +74,7 @@
                                     @if($panga->name == 'Doctor Pescado I')
                                         @else
 
-                                        <option value="{{ $panga->rate->duration_full_day }}_{{ $panga->rate->full_day }}" 
+                                        <option value="{{ $panga->rate->duration_full_day }}_{{ $panga->rate->full_day }}"
                                             @if($price ?? '')
                                                 @if(!empty($price) || $price === "true") selected @endif
                                             @endif>
@@ -85,12 +85,12 @@
 
                                   </select>
                                 </div>
-                                
+
 
                             </div>
 
                             <div class="row">
-                               
+
                                 <div class="col-md-6 form-group">
 
                                     <label class="required" for="anglers">Anglers</label>
@@ -112,7 +112,7 @@
                             </div>
                         </div>
                         <div class="col-md-12 date_details">
-                           
+
                             <div class="row">
 
                                 <div class="col-md-6 form-group">
@@ -143,20 +143,20 @@
                         </div>
                     </div>
 
-                  
 
 
-                    <input name="total_cost" id="total" amountdata="" type="hidden"> 
-                    <input name="voucher" id="voucher" vouchertdata="BOATS-BAJA-497484649" type="hidden" value="BOATS-BAJA-497484649"> 
-                    <input name="_token" id="csrf-token" type="hidden" value="{{csrf_token()}}"> 
+
+                    <input name="total_cost" id="total" amountdata="" type="hidden">
+                    <input name="voucher" id="voucher" vouchertdata="BOATS-BAJA-497484649" type="hidden" value="BOATS-BAJA-497484649">
+                    <input name="_token" id="csrf-token" type="hidden" value="{{csrf_token()}}">
 
                     <transition name="fade" mode="out-in">
-                            <div class="btn btn-success mt-5" v-show="showPayPalBtns">Reserve now</div>    
+                            <div class="btn btn-success mt-5" v-show="showPayPalBtns" @click="sendReservation">Reserve now</div>
                     </transition>
-                    
+
 
                     <transition name="fade" mode="out-in">
-                        
+
                         <div v-show="!showPayPalBtns" class="text-center">
                             <div class="alert alert-secondary text-center mt-3 d-flex justify-content-center" role="alert">
                                 Complete the form to see the reservation button...
@@ -172,7 +172,7 @@
                 <div class="alert alert-summary d-flex flex-column w-100 px-4 pt-4" role="alert">
 
                     <p class="summary-title"><strong><i class="fa fa-info-circle" aria-hidden="true"></i></strong> ORDER  SUMMARY </p>
-                        
+
                         <div class="summary-content mt-lg-4">
 
                             <p class="text-center mb-4"><img src="{{$panga->img}}" class="w-100 thumbnail"></p>

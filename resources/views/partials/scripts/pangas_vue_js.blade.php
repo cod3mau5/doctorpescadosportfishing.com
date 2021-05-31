@@ -1,5 +1,5 @@
 <script>
-        
+
     var app = new Vue({
                 el: '#booking',
                 data: {
@@ -26,7 +26,7 @@
                         minDate: moment()
                     });
 
-      
+
                     // AQUI SE METE EL VALOR YA QUE SOLAMENTE CON EL PURO V-MODEL NO SE PUEDE
                     $('#datetimepicker7').on("dp.change", function (e) {
                         vm.fishingDate= $('#datetimepicker7').val();
@@ -38,7 +38,7 @@
                     //         if(vm.specialRequest=== ''){
                     //             vm.specialRequest='No request.';
                     //         }
-                    //         vm.fishingDuration.slice(0, 1);         
+                    //         vm.fishingDuration.slice(0, 1);
                     //        var duration=vm.fishingDuration.slice(0, 1);
 
                     //     // This function sets up the details of the transaction, including the amount and line item details.
@@ -57,7 +57,7 @@
                     //             },
                     //             description: "{{$panga->name}} {{$panga->feets}}ft"+","+duration+","+vm.anglers+","+vm.fishingDate+","+vm.startingTime+","+vm.subtotal+","+vm.clientOrigin+","+vm.specialRequest
                     //         }],
-                    //         application_context : { 
+                    //         application_context : {
                     //             shipping_preference:"NO_SHIPPING"
                     //         },
                     //     });
@@ -73,7 +73,6 @@
                     //     }
                     // }).render('#paypal-button-container');
 
-                    //This function displays Smart Payment Buttons on your web page.
 
                 },
                 watch: {
@@ -81,13 +80,13 @@
                         var vm=this;
 
                         if(
-                            vm.firstName == '' 
-                            || vm.lastName  == '' 
-                            || vm.email  == '' 
-                            || vm.fishingDuration  == '' 
-                            || vm.anglers  == '' 
-                            || vm.fishingDate  == '' 
-                            || vm.startingTime  == '' 
+                            vm.firstName == ''
+                            || vm.lastName  == ''
+                            || vm.email  == ''
+                            || vm.fishingDuration  == ''
+                            || vm.anglers  == ''
+                            || vm.fishingDate  == ''
+                            || vm.startingTime  == ''
                         )
                         {
                             return vm.showPayPalBtns=false;
@@ -103,7 +102,7 @@
                                     duration: vm.fishingDuration.slice(0, 1),
                                     _token: '{{ csrf_token() }}'
                                 },
-                                
+
                                 success: function(response)
                                 {
                                     vm.total='';
@@ -118,11 +117,11 @@
                                         calcTotal=calcTotal.toFixed(2);
                                         //vm.total= calcTotal.toString(); // uncomment this to use taxes
                                         vm.total= response.price;//comment this for no taxes
-                                        
+
                                         vm.showPayPalBtns=true;
                                     }
                                 }
-                            }); 
+                            });
                         }else{
                             $.ajax({
                                 type: "POST",
@@ -132,7 +131,7 @@
                                     duration: vm.fishingDuration.slice(0, 1),
                                     _token: '{{ csrf_token() }}'
                                 },
-                                
+
                                 success: function(response)
                                 {
                                     vm.total='';
@@ -151,24 +150,24 @@
                                         vm.showPayPalBtns=true;
                                     }
                                 }
-                            }); 
+                            });
                         }
                     }//total()
                 },
-                methods:{                        
+                methods:{
                     checkFields(){
                         var vm=this;
                         let res= this.fishingDuration.slice(5, 8);
                         vm.total=res;
 
                         if(
-                            vm.firstName == '' 
-                            || vm.lastName  == '' 
-                            || vm.email  == '' 
-                            || vm.fishingDuration  == '' 
-                            || vm.anglers  == '' 
-                            || vm.fishingDate  == '' 
-                            || vm.startingTime  == '' 
+                            vm.firstName == ''
+                            || vm.lastName  == ''
+                            || vm.email  == ''
+                            || vm.fishingDuration  == ''
+                            || vm.anglers  == ''
+                            || vm.fishingDate  == ''
+                            || vm.startingTime  == ''
                         )
                         {
                             vm.total='0';
@@ -185,7 +184,7 @@
                                     duration: vm.fishingDuration.slice(0, 1),
                                     _token: '{{ csrf_token() }}'
                                 },
-                                
+
                                 success: function(response)
                                 {
                                     if(response === "Error"){
@@ -198,14 +197,14 @@
                                         vm.subtotal=response.price.toString();
                                         var calcTotal= 16 * response.price / 100;
                                         calcTotal= calcTotal + response.price;
-                                        calcTotal=calcTotal.toFixed(2); 
+                                        calcTotal=calcTotal.toFixed(2);
                                         //vm.total= calcTotal.toString(); // uncomment this to use taxes
                                         vm.total= response.price;//comment this for no taxes
                                         vm.showPayPalBtns=true;
                                     }
                                 }
                             });
-                            
+
                             // fetch("/getPangaPrice", {
                             //     method: "POST",
                             //     headers: {
@@ -217,13 +216,52 @@
                             // }).catch(err => {
                             //     console.log(err)
                             // })
-                            
-                        } 
+
+                        }
                     },//checkFields()
                     sendReservation(){
+                        vm=this;
                         alert("{{$panga->name}} {{$panga->feets}}ft"+","+duration+","+vm.anglers+","+vm.fishingDate+","+vm.startingTime+","+vm.subtotal+","+vm.clientOrigin+","+vm.specialRequest);
+
+                        $.ajax({
+                                type: "POST",
+                                url: '/reserve-panga',
+                                data: {
+                                    id: vm.id,
+                                    name:"{{$panga->name}}",
+                                    feets: "{{$panga->feets}}ft",
+                                    duration: vm.fishingDuration.slice(0, 1),
+                                    anglers:vm.anglers,
+                                    date:vm.fishingDate,
+                                    time:vm.startingTime,
+                                    subtotal:vm.subtotal,
+                                    clienOrigin:vm.clientOrigin,
+                                    specialRequest:vm.specialRequest,
+                                    _token: '{{ csrf_token() }}'
+                                },
+
+                                success: function(response)
+                                {
+                                    if(response === "Error"){
+                                        vm.total='0';
+                                        vm.subtotal='0';
+                                        vm.showPayPalBtns=false;
+                                    }else{
+                                        vm.total='0';
+                                        vm.subtotal='0';
+                                        vm.subtotal=response.price.toString();
+                                        var calcTotal= 16 * response.price / 100;
+                                        calcTotal= calcTotal + response.price;
+                                        calcTotal=calcTotal.toFixed(2);
+                                        //vm.total= calcTotal.toString(); // uncomment this to use taxes
+                                        vm.total= response.price;//comment this for no taxes
+                                        vm.showPayPalBtns=true;
+                                    }
+                                }
+                            });
+
                     }
                 },//methods
             });//Vue
-      
-</script> 
+
+</script>
