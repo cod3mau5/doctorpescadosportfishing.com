@@ -1,9 +1,10 @@
-<form role="form" id="booking">
+
     <div class="row">
         <div class="col-md-12 form-group">
 
             <label for="exampleInputEmail1" class="required">
-                Email address <small style="color: red">(required)</small>
+                Email address 
+                <small style="color: red">(required)</small>
             </label>
            <input   type="email"
                     name="email"
@@ -11,18 +12,33 @@
                     class="form-control"
                     v-model="email"
                     id="exampleInputEmail1"
-                    @change="checkFields">
+                    @change="checkFields"
+                    v-on:keyup="checkFields">
         </div>
     </div>
     <div class="row">
         <div class="col-md-6 form-group">
-            <label class="required" for="fullname">First Name <small style="color: red">(required)</small></label><br>
-            <input type="text" name="firstName" class="form-control" v-model="firstName" @change="checkFields">
+            <label class="required" for="fullname">
+                First Name 
+                <small style="color: red">(required)</small></label><br>
+            <input type="text" 
+                    name="firstName" 
+                    class="form-control" 
+                    v-model="firstName" 
+                    @change="checkFields"
+                    v-on:keyup="checkFields">
 
         </div>
         <div class="col-md-6 form-group">
-            <label class="required" for="fullname">Last Name <small style="color: red">(required)</small></label><br>
-            <input type="text" name="fullname" class="form-control" v-model="lastName" @change="checkFields">
+            <label class="required" for="fullname">
+                Last Name 
+                <small style="color: red">(required)</small></label><br>
+            <input type="text" 
+                    name="fullname" 
+                    class="form-control" 
+                    v-model="lastName" 
+                    @change="checkFields"
+                    v-on:keyup="checkFields">
 
         </div>
     </div>
@@ -30,8 +46,15 @@
 
         <div class="col-md-6 form-group">
 
-            <label class="required" for="anglers">Persons <small style="color: red">(required)</small></label>
-            <select name="anglers" id="anglers" class="form-control" v-model="anglers" @change="checkFields">
+            <label class="required" for="anglers">
+                Persons 
+                <small style="color: red">(required)</small></label>
+            <select name="anglers" 
+                    id="anglers" 
+                    class="form-control" 
+                    v-model="anglers" 
+                    @change="checkFields"
+                    v-on:keyup="checkFields">
                 <option disabled="disabled" selected="selected"># people</option>
                 @for ($i = 2; $i <=4 ; $i++)
                     <option value="{{ $i }}">
@@ -42,22 +65,32 @@
 
         </div>
         <div class="col-md-6 form-group">
-            <label class="required" for="trip_date">Trip date <small style="color: red">(required)</small></label><br>
-            <input type="text" name="trip_date" v-model="fishingDate" id="datetimepicker7" required="required"
-                class="calendario form-control" @click="checkFields" @change="checkFields">
+            <label class="required" for="trip_date">
+                Trip date 
+                <small style="color: red">(required)</small></label><br>
+            <input type="text" 
+                name="trip_date" 
+                v-model="fishingDate" 
+                id="datetimepicker7" 
+                required="required"
+                class="calendario form-control" 
+                @change="checkFields"
+                v-on:keyup="checkFields">
         </div>
     </div>
     <div class="row">
         <div class="col-md-12">
-            <label for="special_request">Special Request</label><br>
-            <textarea type="text" name="special_request" rows="6" class="form-control" v-model="specialRequest"></textarea>
+            <label for="special_request">
+                Special Request</label><br>
+            <textarea   type="text" 
+                        name="special_request" 
+                        rows="6" class="form-control"
+                        v-model="specialRequest">
+            </textarea>
         </div>
     </div>
 
-    <transition name="fade" mode="out-in">
-            <div id="paypal-button-container" class="mt-5" v-show="showPayPalBtns"></div>
-    </transition>
-
+ 
 
     <transition name="fade" mode="out-in">
         <div v-show="!showPayPalBtns">
@@ -67,4 +100,3 @@
         </div>
     </transition>
 
-</form>

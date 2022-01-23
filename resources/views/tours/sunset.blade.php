@@ -1,9 +1,7 @@
 @extends('layouts.master')
 @section('styles')
     <link href="https://fonts.googleapis.com/css2?family=Rowdies:wght@700&display=swap" rel="stylesheet">
-    <script
-        src="https://www.paypal.com/sdk/js?client-id={{config('paypal.client_id')}}&currency=USD"> // Required. Replace SB_CLIENT_ID with your sandbox client ID.
-    </script>
+    @include('tours.scripts.paypal-client-id')
     @include('partials.general_style_forPangas')
     <link rel="stylesheet" href="{{asset('css/bootstrap-datetimepicker.min.css')}}">
     <link href="{{asset('css/bootstrap-glyphicons.css')}}" rel="stylesheet">
@@ -109,22 +107,25 @@
                         <div class="modal fade" id="modal-container-633658" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                             <div class="modal-dialog" role="document">
                                 <div class="modal-content">
-                                    <div class="modal-header text-center">
-                                        <h5 class="modal-title" id="myModalLabel">
-                                            Book Your Trip <small>(Sunset At Sea)</small>
-                                        </h5>
-                                        <button type="button" class="close" data-dismiss="modal">
-                                            <span aria-hidden="true">×</span>
-                                        </button>
-                                    </div>
-                                    <div class="modal-body">
-                                        @include('tours.forms.form_1')
-                                    </div>
-                                    <div class="modal-footer">
-                                        <button type="button" class="btn btn-secondary text-white" data-dismiss="modal" style="font-weight:bolder">
-                                            Cancel
-                                        </button>
-                                    </div>
+                                    <form role="form" id="booking">
+                                        <div class="modal-header text-center">
+                                            <h5 class="modal-title" id="myModalLabel">
+                                                Book Your Trip <small>(Sunset At Sea)</small>
+                                            </h5>
+                                            <button type="button" class="close" data-dismiss="modal">
+                                                <span aria-hidden="true">×</span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-body">
+                                            @include('tours.forms.form_1')
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary text-white" data-dismiss="modal" style="font-weight:bolder">
+                                                Cancel
+                                            </button>
+                                            @include('tours.components.book-now-btn')
+                                        </div>
+                                    </form>
                                 </div>
 
                             </div>

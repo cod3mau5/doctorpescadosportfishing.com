@@ -77,6 +77,9 @@ Route::get('/tour-reservation/completed/{orderID}','GetOrder@getOrderTour');
 // Route::get('/paypal/pay', 'PaymentController@payWithPayPal');
 // Route::get('/paypal/status', 'PaymentController@payPalStatus');
 
+// CASH ON ARRIVAL
+Route::post('/reserve-tour','GetOrder@cashOnArrival');
+
 #PANEL SYSTEM
 Route::get('/home', 'HomeController@index')->name('home');
 Auth::routes();

@@ -15,7 +15,9 @@
                 <div class="panga_box">
 
                     <ul class="cards">
-                        <h2 class="panga_title">{{strtoupper($charter->name)}} <small>{{$charter->feets}}ft</small></h2>
+                        <h2 class="panga_title">
+                            {{strtoupper($charter->name)}} <small>{{$charter->feets}}ft</small>
+                        </h2>
                     </ul>
 
                     <div class="row">
