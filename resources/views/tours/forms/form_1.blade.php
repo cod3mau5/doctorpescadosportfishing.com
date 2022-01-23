@@ -74,7 +74,7 @@
                 id="datetimepicker7" 
                 required="required"
                 class="calendario form-control" 
-                @change="checkFields"
+                @click="checkFields"
                 v-on:keyup="checkFields">
         </div>
     </div>
