@@ -226,7 +226,7 @@
 
                         <div v-show="!showPayPalBtns">
                             <div class="alert alert-secondary text-center mt-3" role="alert">
-                                Complete the form to see the payment button...
+                                Complete all the required fields to see the booking button...
                             </div>
                         </div>
 

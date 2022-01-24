@@ -21,6 +21,9 @@
             height: 5px!important;
             padding: 8px!important;
         }
+        #chatTawk{
+            display: none;
+        }
     </style>
 @endsection
 
@@ -210,5 +213,5 @@
         const trip= 'Snorkel';
     </script>
 
-@include('tours.scripts.paypal-vue')
+    @include('tours.scripts.paypal-vue')
 @endsection
