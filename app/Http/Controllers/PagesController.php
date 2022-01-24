@@ -91,14 +91,17 @@ class PagesController extends Controller
 
 
       //TOURS
-      public function sunset(){
-        return view('tours.sunset');
+    public function sunset(){
+          $cost=80;
+        return view('tours.sunset',compact('cost'));
     }
     public function snorkel(){
-        return view('tours.snorkel');
+        $cost=60;
+        return view('tours.snorkel',compact('cost'));
     }
     public function whale_watching(){
-        return view('tours.whale-watching');
+        $cost=80;
+        return view('tours.whale-watching',compact('cost'));
     }
 
     //CONTACT

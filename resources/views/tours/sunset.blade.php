@@ -131,6 +131,8 @@
                             </div>
 
                         </div>
+                    @include('global.loading-modal')
+
 
                     </div>
                     <div class="col-md-6">
@@ -202,10 +204,9 @@
     <script src="{{ asset('/js/bootstrap-datetimepicker.min.js') }}"></script>
 
     <script>
-        const duration= '2';
+        const duration= '2 hours';
         const startingTime='4:30pm';
-        const total= '80';
-        const trip= 'Sunset at sea';
+        const tour= 'Sunset at sea';
     </script>
 
     @include('tours.scripts.paypal-vue')

@@ -76,9 +76,8 @@ Route::get('/paypal-reservation/completed/{orderID}','GetOrder@getOrder');
 Route::get('/tour-reservation/completed/{orderID}','GetOrder@getOrderTour');
 // Route::get('/paypal/pay', 'PaymentController@payWithPayPal');
 // Route::get('/paypal/status', 'PaymentController@payPalStatus');
-
 // CASH ON ARRIVAL
-Route::post('/reserve-tour','GetOrder@cashOnArrival');
+Route::post('/reserve-tour','GetOrder@cashOnArrival')->name('reserveTour');
 
 #PANEL SYSTEM
 Route::get('/home', 'HomeController@index')->name('home');

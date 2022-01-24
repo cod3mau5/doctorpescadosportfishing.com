@@ -11,7 +11,6 @@
                     startingTime:startingTime,
                     specialRequest:'',
                     showPayPalBtns:false,
-                    total: total,
                 },//data
                 mounted: function (){
                     var vm= this;
@@ -22,12 +21,10 @@
                         minDate: moment()
                     });
 
-
                     // AQUI SE METE EL VALOR YA QUE SOLAMENTE CON EL PURO V-MODEL NO SE PUEDE
                     $('#datetimepicker7').on("dp.change", function (e) {
                         vm.fishingDate= $('#datetimepicker7').val();
                     });
-
 
                     // paypal.Buttons({
                     //     createOrder: function(data, actions) {
@@ -95,12 +92,88 @@
                     sendOrder(event){
                         event.preventDefault();
                         let vm=this;
-                        alert('hola');
+                        let cost= '{{ $cost }}' * Number(vm.anglers);
                         if(vm.specialRequest=== ''){
                                 vm.specialRequest='No request.';
+                        }
+                        $('#modal-container-633658').html(`
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-body text-center">
+                                        <div class="loader"></div>
+                                        <div clas="loader-txt">
+                                            <p>
+                                                Saving reservation... <br><br>
+                                                <small>please do not close this tab</small>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>`);
+
+                        $.ajax({
+                            type: "POST",
+                            url: '{{ route("reserveTour") }}',
+                            data: {
+                                name: vm.firstName + ' ' + vm.lastName,
+                                email: vm.email,
+                                charter:"Default boat for the " + tour,
+                                feets: "",
+                                anglers:vm.anglers,
+                                duration: vm.tripDuration,
+                                fishingDate:vm.fishingDate,
+                                fishingTime:vm.startingTime,
+                                client_origin:'web',
+                                cost:cost,
+                                request:vm.specialRequest,
+                                _token: '{{ csrf_token() }}'
+                            },
+
+                        })
+                        .then((response) =>{
+                            if(response === "Email invalid"){
+                                $('#modal-container-633658').html(`
+                                    <div class="modal-dialog" role="document">
+                                        <div class="alert alert-danger" role="alert">
+                                            <h2>Invalid email</h2>
+                                        </div>
+                                    </div>`);
+                                setTimeout(function(){
+                                    $("#modal-container-633658").hide();
+                                    // $(".modal-backdrop").removeClass('show'); 
+                                    $('#modal-container-633658').html(`
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <form role="form" id="booking">
+                                                <div class="modal-header">
+                                                    <h5 class="modal-title" id="myModalLabel">
+                                                        Book Your Trip <small>(Whale Watching)</small>
+                                                    </h5>
+                                                    <button type="button" class="close" data-dismiss="modal">
+                                                        <span aria-hidden="true">×</span>
+                                                    </button>
+                                                </div>
+                                                <div class="modal-body">
+                                                    @include('tours.forms.form_1')
+                                                </div>
+                                                <div class="modal-footer">
+                                                    <button type="button" class="btn btn-secondary text-white" data-dismiss="modal" style="font-weight:bolder">
+                                                        Cancel
+                                                    </button>
+                                                    @include('tours.components.book-now-btn')
+
+                                                </div>
+                                            </form>
+                                        </div>
+                                    </div>`);
+                                    $("#modal-container-633658").show();
+                                },3000);
+                            }else{
+                                $("#modal-container-633658").show();
+                                window.location= '/reservation/completed/'+response;
                             }
-                            vm.tripDuration;
-                            var duration=vm.tripDuration;
+                        });
+
                     }
                 },//methods
             });//Vue

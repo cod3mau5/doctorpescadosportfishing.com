@@ -25,61 +25,44 @@ require_once(app_path().'/Helpers/paypal_client.php');
 class GetOrder extends Controller
 {
  public function cashOnArrival(Request $request){
-     dd($request->all());
-        #TRANSACTION DETAILS:
-        $description=$request->result->purchase_units[0]->description;
-
-        $reservationData= explode(',', $description);
-        $data['name']= $request->result->payer->name->given_name .' '. $request->result->payer->name->surname;
-        $data['email']= $request->result->payer->email_address;
-        $data['orderID']= $request->result->id;
-        $data['charter']= $reservationData[0];
-        $data['duration']= $reservationData[1];
-        $data['anglers']= $reservationData[2];
-        $data['fishingDate']= $reservationData[3];
-        $data['fishingTime']= $reservationData[4];
-        $data['cost']=$request->result->purchase_units[0]->payments->captures[0]->amount->value;
-        $data['subtotal']= $reservationData[5];
-        $data['client_origin']= $reservationData[6];
-        $data['request']= $reservationData[7];
-
-        if($request->result->status === "COMPLETED"){
+       
+        $data=$request->all();
+        $data['orderID']='DR-'.mt_rand();
+        if (!filter_var($request['email'], FILTER_VALIDATE_EMAIL)) {
+            return "Email invalid";
+          }
             #INSERT DETAILS:
             $reservation = Reservation::create($data);
 
-            // dd($reservation->email);
-
             if(config('paypal.settings.mode') == 'live'){
-
                 Mail::to(
                     [$reservation->email,
                     'info@doctorpescadosportfishing.com',
                     'doctorpescado1@yahoo.com.mx',
                     'julietaleyva2808@gmail.com',
                     'code.bit.mau@gmail.com']
-                )->queue(new OrderReservation($reservation));
-                return view('summary',compact('reservation'));
-
+                )->queue(new tourReservation($reservation));
+                // return view('summary',compact('reservation'));
+                return $data['orderID'];
             }elseif(config('paypal.settings.mode') == 'sandbox'){
-                // return new OrderReservation($reservation);
+                // return new tourReservation($reservation);
                 Mail::to(
                     [$reservation->email,
                     'mauri.bmxxx@gmail.com',
                     'code.bit.mau@gmail.com']
-                )->queue(new OrderReservation($reservation));
-                return view('summary',compact('reservation'));
-
+                )->queue(new tourReservation($reservation));
+                // return view('summary',compact('reservation'));
+                return $data['orderID'];
             }else{
                 Mail::to(
                     [$reservation->email,
                     'code.bit.mau@gmail.com']
-                )->queue(new OrderReservation($reservation));
-                return view('summary',compact('reservation'));
+                )->queue(new tourReservation($reservation));
+                // return view('summary',compact('reservation'));
+                return $data['orderID'];
             }
 
-        }else{
-          return back()->with('status', 'there is a problem with the payment click here to contact us.');
-        }
+
     }
  
   // 2. Set up your server to receive a call from the client

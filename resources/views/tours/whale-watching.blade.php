@@ -112,7 +112,7 @@
                                 <form role="form" id="booking">
                                     <div class="modal-header">
                                         <h5 class="modal-title" id="myModalLabel">
-                                            Modal title
+                                            Book Your Trip <small>(Whale Watching)</small>
                                         </h5>
                                         <button type="button" class="close" data-dismiss="modal">
                                             <span aria-hidden="true">×</span>
@@ -126,11 +126,11 @@
                                             Cancel
                                         </button>
                                         @include('tours.components.book-now-btn')
+
                                     </div>
                                 </form>
                             </div>
                         </div>
-
                     </div>
 
                 </div>
@@ -217,10 +217,9 @@
     <script src="{{ asset('/js/moment.js') }}"></script>
     <script src="{{ asset('/js/bootstrap-datetimepicker.min.js') }}"></script>
     <script>
-        const duration= '2';
+        const duration= '2 hours';
         const startingTime='9:00am';
-        const total= '80';
-        const trip= 'Whale watching';
+        const tour= 'Whale watching';
     </script>
 
 @include('tours.scripts.paypal-vue')
