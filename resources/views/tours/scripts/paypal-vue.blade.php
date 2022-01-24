@@ -92,7 +92,9 @@
                         }
                     },//checkFields()
 
-                    sendOrder(){
+                    sendOrder(event){
+                        event.preventDefault();
+                        let vm=this;
                         alert('hola');
                         if(vm.specialRequest=== ''){
                                 vm.specialRequest='No request.';

@@ -4,6 +4,7 @@
                 class="btn btn-danger float-right text-white"
                 style="font-weight: bolder" 
                 v-show="showPayPalBtns"
+                @click="sendOrder($event)"
         >
                 Book Now
         </button>
