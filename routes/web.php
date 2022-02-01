@@ -54,7 +54,6 @@ Route::get('/book-now', 'PangasController@bookRandomPanga');
 Route::post('/getPangaPrice','PangasController@getPrice');
 
 
-
 ###################################
 ###  --ALL VIEWS FOR CHARTERS-- ###
 ###################################
@@ -83,3 +82,6 @@ Route::post('/reserve-tour','GetOrder@cashOnArrival')->name('reserveTour');
 Route::get('/home', 'HomeController@index')->name('home');
 Auth::routes();
 Route::resource('/fishing-report-cabo', 'ArticleController');
+
+
+Route::get('debug','PagesController@debug');

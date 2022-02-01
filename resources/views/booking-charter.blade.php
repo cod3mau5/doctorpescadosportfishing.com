@@ -2,9 +2,9 @@
 @section('pangas-styles')
 
     <link href="https://fonts.googleapis.com/css2?family=Rowdies:wght@700&display=swap" rel="stylesheet">
-    <script
+    {{-- <script
         src="https://www.paypal.com/sdk/js?client-id={{config('paypal.client_id')}}&currency=USD"> // Required. Replace SB_CLIENT_ID with your sandbox client ID.
-    </script>
+    </script> --}}
     @include('partials.general_style_forPangas')
     <link rel="stylesheet" href="{{asset('css/bootstrap-datetimepicker.min.css')}}">
     <link href="{{asset('css/bootstrap-glyphicons.css')}}" rel="stylesheet">
@@ -14,7 +14,15 @@
 @section('content')
 
 
-    <div class="container mt-3 mb-5" id="booking">
+    <div class="container mt-3 mb-5" 
+        id="booking">
+        <div class="modal fade" 
+        id="modal-container-633658" 
+        role="dialog" 
+        aria-labelledby="myModalLabel" 
+        aria-hidden="true">
+
+        </div>
         <div class="row mx-0">
             <div class="col-lg-8">
                 @if (session('status'))
@@ -218,7 +226,12 @@
                     <input name="_token" id="csrf-token" type="hidden" value="{{csrf_token()}}">
 
                     <transition name="fade" mode="out-in">
-                            <div id="paypal-button-container" class="mt-5" v-show="showPayPalBtns"></div>
+                            {{-- <div id="paypal-button-container" class="mt-5" v-show="showPayPalBtns"></div> --}}
+                            <div class="btn btn-success mt-5 float-right"
+                            v-show="showPayPalBtns"     
+                            @click="sendReservation">
+                                Reserve now
+                            </div>
                     </transition>
 
 

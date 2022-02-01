@@ -26,7 +26,6 @@
                         minDate: moment()
                     });
 
-
                     // AQUI SE METE EL VALOR YA QUE SOLAMENTE CON EL PURO V-MODEL NO SE PUEDE
                     $('#datetimepicker7').on("dp.change", function (e) {
                         vm.fishingDate= $('#datetimepicker7').val();
@@ -72,7 +71,6 @@
                     //         });
                     //     }
                     // }).render('#paypal-button-container');
-
 
                 },
                 watch: {
@@ -222,7 +220,21 @@
                     sendReservation(){
                         vm=this;
                         // alert("{{$panga->name}} {{$panga->feets}}ft"+","+duration+","+vm.anglers+","+vm.fishingDate+","+vm.startingTime+","+vm.subtotal+","+vm.clientOrigin+","+vm.specialRequest);
-
+                        $('#modal-container-633658').show();
+                        $('#modal-container-633658').html(`
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-body text-center">
+                                        <div class="loader"></div>
+                                        <div clas="loader-txt">
+                                            <p>
+                                                Saving reservation... <br><br>
+                                                <small>please do not close this tab</small>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>`);
                         $.ajax({
                                 type: "POST",
                                 url: '/reserve-panga',

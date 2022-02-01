@@ -165,7 +165,10 @@
                                 <p style="margin-bottom:10px;color:#47959E;font-family:Tahoma,Geneva,sans-serif;font-size:12px;font-weight:400;line-height:19px;margin:0;margin-bottom:0;padding:0;text-align:left">
                                     Total: <strong>{{$reservation->cost}}</strong>
                                 </p>
-                                @if($reservation->paymentStatus)
+                                <p style="margin-bottom:10px;color:#47959E;font-family:Tahoma,Geneva,sans-serif;font-size:12px;font-weight:400;line-height:19px;margin:0;margin-bottom:0;padding:0;text-align:left">
+                                    Payment Status: <strong style="color:rgb(255, 98, 0)">Confirmation pending</strong>
+                                </p>
+                                {{-- @if($reservation->paymentStatus)
                                     <p style="margin-bottom:10px;color:#47959E;font-family:Tahoma,Geneva,sans-serif;font-size:12px;font-weight:400;line-height:19px;margin:0;margin-bottom:0;padding:0;text-align:left">
                                         Payment Status: <strong style="color:rgb(255, 98, 0)">Confirmation pending</strong>
                                     </p>
@@ -173,7 +176,7 @@
                                     <p style="margin-bottom:10px;color:#47959E;font-family:Tahoma,Geneva,sans-serif;font-size:12px;font-weight:400;line-height:19px;margin:0;margin-bottom:0;padding:0;text-align:left">
                                         Payment Status: <strong style="color:springgreen">Paid</strong>
                                     </p>
-                                @endif
+                                @endif --}}
 
                                 <p style="margin-bottom:10px;color:#47959E;font-family:Tahoma,Geneva,sans-serif;font-size:12px;font-weight:400;line-height:19px;margin:0;margin-bottom:0;padding:0;text-align:left">
                                     Order ID: <strong>{{ $reservation->orderID }}</strong>

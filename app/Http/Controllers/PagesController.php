@@ -108,4 +108,8 @@ class PagesController extends Controller
     public function contact(){
         return view('contact');
     }
+
+    public function debug(){
+        dd(config('paypal.settings.mode'));
+    }
 }

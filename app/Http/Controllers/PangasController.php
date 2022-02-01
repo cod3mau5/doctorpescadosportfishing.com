@@ -60,7 +60,7 @@ class PangasController extends Controller
     }
 
     public function getPrice(Request $request){
-        if($request->duration == '5'){
+        if($request->duration == '5' || $request->duration == '6'){
             $price= Rate::where('panga_id', $request->id)->get();
             return response()->json(['price' => $price[0]->half_day]);
         }elseif($request->duration == '8'){
@@ -87,7 +87,7 @@ class PangasController extends Controller
                 $data['subtotal']= $response->subtotal;
                 $data['client_origin']= $response->client_origin;
                 $data['request']=$response->specialRequest ? $response->specialRequest : 'no request';
-                $data['orderID']='RESERVATION-PENDING-'.rand(5, 15);
+                $data['orderID']='DR-'.mt_rand();
                 if($reservation = Reservation::create($data)){
 
                     // dd($reservation->email);

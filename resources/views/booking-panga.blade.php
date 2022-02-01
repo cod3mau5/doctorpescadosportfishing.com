@@ -13,7 +13,15 @@
 
 @section('content')
 
-    <div class="container mt-3 mb-5" id="booking">
+    <div class="container mt-3 mb-5" 
+        id="booking">
+        <div class="modal fade" 
+            id="modal-container-633658" 
+            role="dialog" 
+            aria-labelledby="myModalLabel" 
+            aria-hidden="true">
+
+        </div>
         <div class="row mx-0">
             <div class="col-lg-8">
                 @if (session('status'))
@@ -24,6 +32,7 @@
                     </div>
                 @endif
                 <form id="form_details" class="container-fluid px-0 form_details">
+
                     <div class="reservation_details">
                         <div class="row">
                             <div class="px-4 py-2 mx-3 w-100 bar blue_bar">
@@ -141,23 +150,30 @@
                         </div>
                     </div>
 
-
-
-
                     <input name="total_cost" id="total" amountdata="" type="hidden">
                     <input name="voucher" id="voucher" vouchertdata="BOATS-BAJA-497484649" type="hidden" value="BOATS-BAJA-497484649">
                     <input name="_token" id="csrf-token" type="hidden" value="{{csrf_token()}}">
 
-                    <transition name="fade" mode="out-in">
-                            <div class="btn btn-success mt-5" v-show="showPayPalBtns" @click="sendReservation">Reserve now</div>
+                    <transition 
+                            name="fade" 
+                            mode="out-in"
+                    >
+                        <div class="btn btn-success mt-5 float-right"
+                            v-show="showPayPalBtns"     
+                            @click="sendReservation">
+                            Reserve now
+                        </div>
                     </transition>
 
 
                     <transition name="fade" mode="out-in">
 
-                        <div v-show="!showPayPalBtns" class="text-center">
-                            <div class="alert alert-secondary text-center mt-3 d-flex justify-content-center" role="alert">
-                                Complete the form to see the reservation button...
+                        <div v-show="!showPayPalBtns" 
+                            class="text-center">
+                            <div 
+                                class="alert alert-secondary text-center mt-3 d-flex justify-content-center" 
+                                role="alert">
+                                Complete all the required fields to see the booking button...
                             </div>
                         </div>
 
@@ -169,7 +185,10 @@
             <div class="col-lg-4 d-flex">
                 <div class="alert alert-summary d-flex flex-column w-100 px-4 pt-4" role="alert">
 
-                    <p class="summary-title"><strong><i class="fa fa-info-circle" aria-hidden="true"></i></strong> ORDER  SUMMARY </p>
+                    <p class="summary-title">
+                        <strong><i class="fa fa-info-circle" aria-hidden="true"></i></strong> 
+                        ORDER  SUMMARY 
+                    </p>
 
                         <div class="summary-content mt-lg-4">
 
