@@ -17,7 +17,7 @@
                     <p id="suico_5ebb9593d6c74" class="su-icon">
                         <i class="fa fa-map-marker"></i>
                         <strong>Ubication:</strong><br/>
-                        Andador Atun Dock 1-B Orange Gate Near Cabo Dolfins 23450 Cabo San Lucas, Baja California Sur Mexico.
+                        Andador Atun Dock 1-B Orange Gate Near Cabo Dolphins 23450 Cabo San Lucas, Baja California Sur Mexico.
                     </p>
                     <p id="suico_5ebb9593d6d7a" class="su-icon phone">
                         <i class="fa fa-phone"></i>

@@ -187,7 +187,7 @@
                             <img src="https://www.doctorpescadosportfishing.com/img/puerta.jpg?{{date("Y-m-d")}}" alt="" style="max-width: 100%;max-height:300px;margin:0 auto">
                         </p>
                         <p style="margin-bottom:10px;color:#47959E;font-family:Tahoma,Geneva,sans-serif;font-size:12px;font-weight:900;line-height:19px;margin:0;margin-bottom:0;text-align:left">
-                            Andador Atun Dock 1-B Orange Gate Near Cabo Dolfins 23450 Cabo San Lucas, Baja California Sur Mexico.
+                            Andador Atun Dock 1-B Orange Gate Near Cabo Dolphins 23450 Cabo San Lucas, Baja California Sur Mexico.
                         </p>
                         <hr class="hSep" style="margin:20px auto;border:none;border-bottom:1px solid #cacaca;border-left:0;border-right:0;border-top:0;clear:both;display:block;height:1px;margin:4px auto;max-width:580px;width:100%;border-color:#fff;">
                     </th>
