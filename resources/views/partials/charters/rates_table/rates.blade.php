@@ -1,3 +1,20 @@
+<div class="alert alert-warning mt-3" role="alert">
+    <h4 class="alert-heading text-center">
+        <b>
+            IMPORTANT!
+        </b>
+    </h4>
+    <p>
+        Due to the low exchange rate of the dollar against the peso and the high cost of fuel, I find myself in the not very pleasant need to increase the price of my services, all in order to be able to offer a better opportunity to take them to where you, my clients, are.
+    </p>
+    <hr>
+    <p class="mb-0">
+        <small>
+            As always, it has been the best opportunity and longest fishing time without skimping on fuel. I hope for your understanding and here we will be waiting for you as always with great enthusiasm and with a lot of passion for fishing.
+        </small>
+    </p>
+</div>
+
 <table class="mx-auto tl-fixed w-100 mt-3">
     <thead>
         <tr>
