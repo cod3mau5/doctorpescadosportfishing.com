@@ -184,48 +184,46 @@
 
 @section('content')
 
-<header class="hero-text">
+  <header class="hero-text">
 
-    <div class="home-slider" data-arrows="true" data-autoplay="true">
+      <div class="home-slider" data-arrows="true" data-autoplay="true">
 
-        <div class="hero-slide">
-            <img src="{{asset('img/slider/slide_1.jpg').'?'.date('Y-m-d')}}" class="w-100" alt="">
-            <div class="header-content text-white position-absolute slide-content col-lg-4">
-                <h1 class="mb-4">Be part of the <span class="d-block font-weight-bold">Lunar XPerience</span></h1>
-                <a class="btn btn-primary btn-lg w-max mt-2" href="#" tabindex="0">Tour Our Ships</a>
-            </div>
+          <div class="hero-slide">
+              <img src="{{asset('img/slider/slide_1.jpg').'?'.date('Y-m-d')}}" class="w-100" alt="">
+              <div class="header-content text-white position-absolute slide-content col-lg-4">
+                  <h1 class="mb-4">Be part of the <span class="d-block font-weight-bold">Lunar XPerience</span></h1>
+                  <a class="btn btn-primary btn-lg w-max mt-2" href="#" tabindex="0">Tour Our Ships</a>
+              </div>
+          </div>
+
+          <div class="hero-slide">
+              <img src="{{asset('img/slider/slide_2.jpg').'?'.date('Y-m-d')}}" class="w-100" alt="">
+              <div class="header-content text-white position-absolute slide-content col-lg-4">
+                  <h1 class="mb-4">LunarXP Voted Best Mars Mission</h1>
+                  <p class="font-weight-bold">Inc. magazine today ranked LunarXP as the fastest growing company in the Mars Mission category.</p>
+                  <a class="btn btn-primary btn-lg w-max mt-2" href="#" tabindex="0">Read More</a>
+              </div>
+          </div>
+
+          <div class="hero-slide">
+              <img src="{{asset('img/slider/slide_3.jpg').'?'.date('Y-m-d')}}" class="w-100" alt="">
+              <div class="header-content text-white position-absolute slide-content col-lg-4">
+                  <p>Our fleet of advanced spacecraft have revolutionized the lunar economy and provided safe travel for thousands of scientists, engineers, technicians, medical staff and civilians. These amazing vessels are also paving the way for reaching Mars in the next decade.</p>
+          <a class="btn btn-primary btn-lg w-max mt-2" href="#" tabindex="0">Read More</a>
         </div>
+          </div>
 
-        <div class="hero-slide">
-            <img src="{{asset('img/slider/slide_2.jpg').'?'.date('Y-m-d')}}" class="w-100" alt="">
-            <div class="header-content text-white position-absolute slide-content col-lg-4">
-                <h1 class="mb-4">LunarXP Voted Best Mars Mission</h1>
-                <p class="font-weight-bold">Inc. magazine today ranked LunarXP as the fastest growing company in the Mars Mission category.</p>
-                <a class="btn btn-primary btn-lg w-max mt-2" href="#" tabindex="0">Read More</a>
-            </div>
+          <div class="hero-slide">
+              <img src="{{asset('img/slider/slide_4.jpg').'?'.date('Y-m-d')}}" class="w-100" alt="">
+              <div class="header-content text-white position-absolute slide-content col-lg-4">
+                  <p>Our fleet of advanced spacecraft have revolutionized the lunar economy and provided safe travel for thousands of scientists, engineers, technicians, medical staff and civilians. These amazing vessels are also paving the way for reaching Mars in the next decade.</p>
+          <a class="btn btn-primary btn-lg w-max mt-2" href="#" tabindex="0">Read More</a>
         </div>
+          </div>
 
-        <div class="hero-slide">
-            <img src="{{asset('img/slider/slide_3.jpg').'?'.date('Y-m-d')}}" class="w-100" alt="">
-            <div class="header-content text-white position-absolute slide-content col-lg-4">
-                <p>Our fleet of advanced spacecraft have revolutionized the lunar economy and provided safe travel for thousands of scientists, engineers, technicians, medical staff and civilians. These amazing vessels are also paving the way for reaching Mars in the next decade.</p>
-				<a class="btn btn-primary btn-lg w-max mt-2" href="#" tabindex="0">Read More</a>
-			</div>
-        </div>
+      </div>
 
-        <div class="hero-slide">
-            <img src="{{asset('img/slider/slide_4.jpg').'?'.date('Y-m-d')}}" class="w-100" alt="">
-            <div class="header-content text-white position-absolute slide-content col-lg-4">
-                <p>Our fleet of advanced spacecraft have revolutionized the lunar economy and provided safe travel for thousands of scientists, engineers, technicians, medical staff and civilians. These amazing vessels are also paving the way for reaching Mars in the next decade.</p>
-				<a class="btn btn-primary btn-lg w-max mt-2" href="#" tabindex="0">Read More</a>
-			</div>
-        </div>
-
-    </div>
-
-</header>
-
-
+  </header>
 
 @if(!empty($pangas))
 
@@ -301,8 +299,6 @@
 
         @endforeach
 
-
-
 @endif
 
     <div class="main py-5">
@@ -311,12 +307,15 @@
         @foreach ($charters as $charter)
           <li class="cards_item">
               <div class="card">
+                
                 <div class="card_image" style="background-image: url('{{ url($charter->img) }}')!important;"></div>
-                <h2 class="card_title pt-3 pb-2 px-1">{{$charter->name}} <small>{{$charter->feets}} <span>ft</span> </small></h2>
+                <h2 class="card_title pt-3 pb-2 px-1">
+                  {{$charter->name}} <small>{{$charter->feets}} <span>ft</span> </small>
+                </h2>
+
                   <div class="card_content">
 
-                      <ul class="pb-2 pl-0">
-
+                    <ul class="pb-2 pl-0">
                         @php
                           if(!empty($charter->feature->fishing_gear) && !empty($charter->feature->boat_features)){
                               $fishing_gears = explode(',', $charter->feature->fishing_gear);
@@ -335,19 +334,19 @@
                                 VIEW ALL CHARTERS
                               </button>
                             </a> --}}
-                            <ul class="card_text py-0">
+                          <ul class="card_text py-0">
                               <li>max {{$charter->max_anglers}} anglers.</li>
                             @foreach ($boat_features as $boat_feature)
                               <li>{{$boat_feature}}</li>
                             @endforeach
-                      </ul>
+                          </ul>
                     </ul>
+                    <a href="{{route('charter-id',$charter->id)}}">
+                      <button class="btn-book-now card_btn"><b style="font-size: .8rem">{{$charter->percentage_reservation ? "RESERVE ".$charter->name. " WITH ".$charter->percentage_reservation."%" : "BOOK " .$charter->name. " NOW"}}</b></button>
+                    </a>
 
-
-                  <a href="{{route('charter-id',$charter->id)}}">
-                    <button class="btn-book-now card_btn"><b style="font-size: .8rem">{{$charter->percentage_reservation ? "RESERVE ".$charter->name. " WITH ".$charter->percentage_reservation."%" : "BOOK " .$charter->name. " NOW"}}</b></button>
-                  </a>
                   </div>
+
               </div>
 
           </li>
@@ -408,8 +407,6 @@
 
 
       {{-- INSTAFEED (APP PARA IMG DE INSTAGRAM) --}}
-
-      
       @include('partials.externals.instafeed')
      
 
@@ -426,64 +423,64 @@
 
   <script>
     $(document).ready(function(){
-    //   $('.home-slider').slick({
-    //     autoplay: true,
-    //     pauseOnHover: false,
-    //     infinite: true,
-    //     speed: 1600,
-    //     autoplaySpeed: 4400,
-    //     fade: true,
-    //     cssEase: 'linear'
-    //   });
+      //   $('.home-slider').slick({
+      //     autoplay: true,
+      //     pauseOnHover: false,
+      //     infinite: true,
+      //     speed: 1600,
+      //     autoplaySpeed: 4400,
+      //     fade: true,
+      //     cssEase: 'linear'
+      //   });
 
 
       $('.home-slider').slick({
-            // dots: true,
-            infinite: true,
-            speed: 500,
-            fade: !0,
-            cssEase: 'linear',
-            slidesToShow: 1,
-            slidesToScroll: 1,
-            autoplay: true,
-            autoplaySpeed: 8000,
-            draggable: false,
-            arrows: false,
-            pauseOnHover: false,
-            responsive: [
-                {
-                breakpoint: 1024,
-                settings: {
-                slidesToShow: 1,
-                slidesToScroll: 1,
-                infinite: true
-                        }
-                },
-                {
-                breakpoint: 768,
-                settings: {
-                draggable: true,
-                        }
-                },
-                {
-                breakpoint: 600,
-                settings: {
-                slidesToShow: 1,
-                draggable: true,
-                slidesToScroll: 1
-                        }
-                },
-                {
-                breakpoint: 480,
-                settings: {
-                slidesToShow: 1,
-                draggable: true,
-                slidesToScroll: 1
-                        }
-                }
+              // dots: true,
+              infinite: true,
+              speed: 500,
+              fade: !0,
+              cssEase: 'linear',
+              slidesToShow: 1,
+              slidesToScroll: 1,
+              autoplay: true,
+              autoplaySpeed: 8000,
+              draggable: false,
+              arrows: false,
+              pauseOnHover: false,
+              responsive: [
+                  {
+                  breakpoint: 1024,
+                  settings: {
+                  slidesToShow: 1,
+                  slidesToScroll: 1,
+                  infinite: true
+                          }
+                  },
+                  {
+                  breakpoint: 768,
+                  settings: {
+                  draggable: true,
+                          }
+                  },
+                  {
+                  breakpoint: 600,
+                  settings: {
+                  slidesToShow: 1,
+                  draggable: true,
+                  slidesToScroll: 1
+                          }
+                  },
+                  {
+                  breakpoint: 480,
+                  settings: {
+                  slidesToShow: 1,
+                  draggable: true,
+                  slidesToScroll: 1
+                          }
+                  }
 
-            ]
-        });
+              ]
+      });
     });
   </script>
 @endsection

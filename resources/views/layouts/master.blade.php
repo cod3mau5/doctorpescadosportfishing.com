@@ -29,7 +29,7 @@
 
         <link rel="stylesheet" type="text/css" href="{{asset('css/slick.css')}}"/>
         <link rel="stylesheet" type="text/css" href="{{asset('css/slick-theme.css')}}"/>
-        <link rel="stylesheet" href="{{url('/css/styles.css?=').time()}}">
+        <link rel="stylesheet" href="{{asset('/css/styles.css?=').time()}}">
         @include('global.css.loading-modal')
         @yield('styles')
         @yield('home-styles')
