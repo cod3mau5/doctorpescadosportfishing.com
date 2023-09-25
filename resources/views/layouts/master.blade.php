@@ -229,9 +229,9 @@
                                 Copyright {{date('Y')}} {{config('app.name')}}  <br>All rights reserved.
                             </div>
                             <div class="col-md-12 text-center">
-                                <a href="https://www.codemau5.com" target="_blank" style="font-size:12px">
+                                <a href="https://codemau5.com" target="_blank" style="font-size:12px">
                                   <i class="fa fa-bolt" aria-hidden="true" style="color:#ff0000"></i> powered by: <br>
-                                  <img src="https://www.codemau5.com/img/poweredby_codemau5.png" alt="codemau5 web developer page" style="width:120px;position:relative;bottom:9px;left:5px">
+                                  <img src="https://codemau5.com/img/poweredby_codemau5.png" alt="codemau5 web developer page" style="width:120px;position:relative;bottom:9px;left:5px">
                                 </a>
                             </div>
                         </div>
