@@ -39,7 +39,6 @@ class GetOrder extends Controller
                     [$reservation->email,
                     'info@doctorpescadosportfishing.com',
                     'doctorpescado1@yahoo.com.mx',
-                    'julietaleyva2808@gmail.com',
                     'code.bit.mau@gmail.com']
                 )->queue(new tourReservation($reservation));
                 // return view('summary',compact('reservation'));
@@ -48,7 +47,8 @@ class GetOrder extends Controller
                 // return new tourReservation($reservation);
                 Mail::to(
                     [$reservation->email,
-                    'mauri.bmxxx@gmail.com',
+                    'maubkpro@hotmail.com',
+                    'info@doctorpescadosportfishing.com',
                     'code.bit.mau@gmail.com']
                 )->queue(new tourReservation($reservation));
                 // return view('summary',compact('reservation'));
@@ -110,7 +110,6 @@ class GetOrder extends Controller
                     [$reservation->email,
                     'info@doctorpescadosportfishing.com',
                     'doctorpescado1@yahoo.com.mx',
-                    'julietaleyva2808@gmail.com',
                     'code.bit.mau@gmail.com']
                 )->queue(new OrderReservation($reservation));
                 return view('summary',compact('reservation'));
@@ -119,7 +118,8 @@ class GetOrder extends Controller
                 // return new OrderReservation($reservation);
                 Mail::to(
                     [$reservation->email,
-                    'mauri.bmxxx@gmail.com',
+                    'maubkpro@hotmail.com',
+                    'info@doctorpescadosportfishing.com',
                     'code.bit.mau@gmail.com']
                 )->queue(new OrderReservation($reservation));
                 return view('summary',compact('reservation'));
@@ -189,7 +189,8 @@ class GetOrder extends Controller
                 // return new tourReservation($reservation);
                 Mail::to(
                     [$reservation->email,
-                    'mauri.bmxxx@gmail.com',
+                    'maubkpro@hotmail.com',
+                    'info@doctorpescadosportfishing.com',
                     'code.bit.mau@gmail.com']
                 )->queue(new tourReservation($reservation));
                 return view('summary',compact('reservation'));

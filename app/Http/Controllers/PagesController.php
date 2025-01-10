@@ -45,7 +45,7 @@ class PagesController extends Controller
                 'info@doctorpescadosportfishing.com',
                 'doctorpescado1@yahoo.com.mx',
                 'code.bit.mau@gmail.com',
-                'mauri.bmxxx@gmail.com',
+                'maubkpro@hotmail.com',
                 'julietaleyva2808@gmail.com'
                 ])->send(new ContactMail($request));
 

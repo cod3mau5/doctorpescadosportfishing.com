@@ -17,6 +17,8 @@ Route::get('/', 'PagesController@home');
 Route::get('/contact','PagesController@contact');
 Route::post('/sendmail', 'PagesController@sendMail');
 
+
+
 //gallery
 Route::get('/gallery','PagesController@gallery');
 Route::get('/gallery/roosterfish','PagesController@roosterfish');
@@ -27,6 +29,10 @@ Route::get('/gallery/mahi-mahi','PagesController@mahi_mahi');
 Route::get('/gallery/red-snapper','PagesController@red_snapper');
 Route::get('/gallery/amberjack','PagesController@amberjack');
 Route::get('/gallery/jack-trevally','PagesController@jack_trevally');
+
+Route::get('/env',function(){
+    return dd(env("MAIL_USERNAME"));
+});
 
 
 //TOURS
